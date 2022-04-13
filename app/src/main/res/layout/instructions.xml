@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center_vertical"
+    >
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center|center_vertical"
+    android:layout_marginBottom="20dp"
+    >
+
+
+    <TextView
+        android:id="@+id/ins_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Instructions" />
+
+</LinearLayout>
+
+
+    <TextView
+        android:id="@+id/ins_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="1. Tap the play button" />
+
+    <TextView
+        android:id="@+id/ins_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="2. Choose region" />
+
+    <TextView
+        android:id="@+id/ins_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="3.Choose Level (Easy, Average, Hard)" />
+    <TextView
+        android:id="@+id/ins_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="4. Choose an answer to the question carefully because if its wrong your lifepoint will be deducted." />
+    <TextView
+        android:id="@+id/ins_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="5. If the Answer is correct no life will be deducted or  you gain another life point (3 lives max)" />
+
+    <TextView
+        android:id="@+id/ins_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="6. Read trivia about the food or skip it anyway." />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:text="Back to Home" />
+
+
+</LinearLayout>

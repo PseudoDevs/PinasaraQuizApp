@@ -1,0 +1,68 @@
+{
+  "Easy": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "correct": "// wag alisin"
+        },
+        {
+          "image": "dog",
+          "correct": "dog"
+        },
+        {
+          "image": "duck",
+          "correct": "duck"
+        },
+        {
+          "image": "fish",
+          "correct": "fish"
+        }
+      ]
+    }
+  ],
+  "Medium": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "correct": "// wag alisin"
+        },
+        {
+          "image": "dog",
+          "correct": "dog"
+        },
+        {
+          "image": "duck",
+          "correct": "duck"
+        },
+        {
+          "image": "fish",
+          "correct": "fish"
+        }
+      ]
+    }
+  ],
+  "Hard": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "correct": "// wag alisin"
+        },
+        {
+          "image": "dog",
+          "correct": "dog"
+        },
+        {
+          "image": "duck",
+          "correct": "duck"
+        },
+        {
+          "image": "fish",
+          "correct": "fish"
+        }
+      ]
+    }
+  ]
+}

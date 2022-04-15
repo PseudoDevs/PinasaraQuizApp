@@ -1,65 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout
+<LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/quiz_bg">
-
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="263dp"
-        android:layout_height="53dp"
-        android:backgroundTint="@color/splash_button_dark_2"
-        android:text="Button"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="503dp" />
-
-    <Button
-        android:id="@+id/button5"
-        android:layout_width="263dp"
-        android:layout_height="53dp"
-        android:backgroundTint="@color/splash_button_dark_2"
-        android:text="Button"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="609dp" />
-
-    <Button
-        android:id="@+id/button4"
-        android:layout_width="263dp"
-        android:layout_height="53dp"
-        android:backgroundTint="@color/splash_button_dark_2"
-        android:text="Button"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteY="556dp" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
-        app:layout_constraintBottom_toTopOf="@+id/button3"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.503"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.527"
-        tools:srcCompat="@tools:sample/avatars" />
+    android:background="@drawable/quiz_bg"
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="60dp"
         android:background="@color/splash_button"
-        android:orientation="horizontal"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:ignore="MissingConstraints">
+        android:orientation="horizontal">
 
 
         <LinearLayout
@@ -105,14 +58,54 @@
         </LinearLayout>
     </LinearLayout>
 
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <ImageView
+        android:id="@+id/questionImage"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
     <TextView
-        android:id="@+id/textView7"
+        android:id="@+id/questionText"
         android:layout_width="257dp"
         android:layout_height="wrap_content"
         android:textStyle="bold"
         android:textAlignment="center"
-        android:text="1. Anong pansit ang ginagamit sa Pansit Batil Patung?"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="413dp" />
-</androidx.constraintlayout.widget.ConstraintLayout>
+        android:text="1. Anong pansit ang ginagamit sa Pansit Batil Patung?"/>
+
+
+    <Button
+        android:id="@+id/ans1"
+        android:layout_width="263dp"
+        android:layout_height="53dp"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:onClick="answer"
+        android:text="Button"/>
+
+    <Button
+        android:id="@+id/ans2"
+        android:layout_width="263dp"
+        android:layout_height="53dp"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:text="Button"
+        android:onClick="answer"/>
+
+    <Button
+        android:id="@+id/ans3"
+        android:layout_width="263dp"
+        android:layout_height="53dp"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:onClick="answer"
+        android:text="Button"/>
+
+
+
+</LinearLayout>
+
+
+</LinearLayout>

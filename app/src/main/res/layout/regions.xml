@@ -77,17 +77,9 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="10dp"
-        >
+        android:padding="10dp">
 
-        <Button
-            android:backgroundTint="@color/splash_button_dark_2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="Region 1"
-            >
-
-        </Button>
+        <include layout="@layout/region_btn"/>
 
     </ScrollView>
 

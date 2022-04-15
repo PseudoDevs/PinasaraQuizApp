@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/region1"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 1"
+        android:onClick="region"/>
+    <Button
+        android:id="@+id/region2"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 2"
+        android:onClick="region"/>
+    <Button
+        android:id="@+id/region3"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 3"
+        android:onClick="region"/>
+    <Button
+        android:id="@+id/region4"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 4"
+        android:onClick="region"/>
+    <Button
+        android:id="@+id/region5"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 5"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/region6"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 6"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/region7"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 7"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/region8"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 8"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/region9"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 9"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/region10"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 10"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/region11"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 11"
+        android:onClick="region"/>
+    <Button
+        android:id="@+id/region12"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 12"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/region13"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 13"
+        android:onClick="region"/>
+
+
+</LinearLayout>

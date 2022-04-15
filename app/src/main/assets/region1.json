@@ -4,27 +4,19 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "text": "// wag alisin",
-          "btn1" : "// wag alisin",
-          "btn2" : "// wag alisin",
-          "btn3" : "// wag alisin",
           "correct": "// wag alisin"
         },
         {
-          "image": "splash",
-          "text": "1. Ang papaitan ay gawa sa anong parte naman ng baka?",
-          "btn1" : "A. Paa, Tengas, Dila, Mata at ilong",
-          "btn2" : "B. Isaw ng baka, at puso",
-          "btn3" : "C. Hita, Tiyan, Likod at Tenga ng baka",
-          "correct": "B"
+          "image": "region1",
+          "correct": "correct 1"
         },
         {
-          "image": "quiz_bg",
-          "text": "2. Ang Bulalo ay madalas lagyan ng?",
-          "btn1" : "A. Buto buto ng baka",
-          "btn2" : "B. Utak ng Baka",
-          "btn3" : "C. Paa ng Baka",
-          "correct": "A"
+          "image": "region1",
+          "correct": "correct 2"
+        },
+        {
+          "image": "region1",
+          "correct": "correct 3"
         }
       ]
     }
@@ -34,28 +26,19 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "text": "// wag alisin",
-          "btn1" : "// wag alisin",
-          "btn2" : "// wag alisin",
-          "btn3" : "// wag alisin",
-          "correct": "// wag alisin",
-
+          "correct": "// wag alisin"
         },
         {
-          "image": "quiz_bg",
-          "text": "3. Ang papaitan ay gawa sa anong parte naman ng baka?",
-          "btn1" : "A. Paa, Tengas, Dila, Mata at ilong",
-          "btn2" : "B. Isaw ng baka, at puso",
-          "btn3" : "C. Hita, Tiyan, Likod at Tenga ng baka",
-          "correct": "B"
+          "image": "region1",
+          "correct": "region1"
         },
         {
-          "image": "splash",
-          "text": "4. Ang Bulalo ay madalas lagyan ng?",
-          "btn1" : "A. Buto buto ng baka",
-          "btn2" : "B. Utak ng Baka",
-          "btn3" : "C. Paa ng Baka",
-          "correct": "A"
+          "image": "region1",
+          "correct": "region1"
+        },
+        {
+          "image": "region1",
+          "correct": "region1"
         }
       ]
     }
@@ -65,20 +48,19 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "text": "// wag alisin",
-          "btn1" : "// wag alisin",
-          "btn2" : "// wag alisin",
-          "btn3" : "// wag alisin",
           "correct": "// wag alisin"
         },
         {
-          "image": "// wag alisin",
-          "text": "// wag alisin",
-          "correct": "// wag alisin",
-          "btn1" : "// wag alisin",
-          "btn2" : "// wag alisin",
-          "btn3" : "// wag alisin",
-          "correct": "// wag alisin"
+          "image": "dog",
+          "correct": "dog"
+        },
+        {
+          "image": "duck",
+          "correct": "duck"
+        },
+        {
+          "image": "fish",
+          "correct": "fish"
         }
       ]
     }

@@ -6,6 +6,7 @@ import android.util.Log;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -34,30 +35,40 @@ public class quizActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.quiz);
         InitializeUI();
-        loadAllQuestions(MainActivity.prefs.getString("levelSelected",null),MainActivity.prefs.getString("regionSelected",null));
+
+            loadAllQuestions(MainActivity.prefs.getString("levelSelected",null),MainActivity.prefs.getString("regionSelected",null));
+
+//        questionText.setText("Question: " + questionItems.get(1).getQuestionText());
+//        questionItems.get(1).getCorrect();
+//        questionItems.get(1).getImage();
+//        questionItems.get(1).getQuestionText();
+        Toast.makeText(this, questionItems.get(1).getCorrect(), Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, questionItems.get(1).getImage(), Toast.LENGTH_SHORT).show();
+//        Log.d("Data", questionItems.get(2).getImage());
+//        Log.d("Data", questionItems.get(3).getQuestionText());
+
     }
 
 
 
-    private void loadAllQuestions(String level,String region){
+    private void loadAllQuestions(String level,String region) {
         questionItems = new ArrayList<>();
         String jsonStr = loadJSONFromAssets(region);
 
         try {
             JSONObject JO = new JSONObject(jsonStr);
             JSONArray lvl = JO.getJSONArray(level);
-            for(int i = 0; i<lvl.length();i++){
+            for(int i = 0; i < lvl.length(); i++){
                 JSONObject getlvl = lvl.getJSONObject(i);
                 JSONArray questions = getlvl.getJSONArray("questions");
-                totalQuestion = questions.length() - 1;
-                for(int q = 0; q<questions.length();q++){
+
+                for(int q = 0; q < questions.length(); q++){
+                    totalQuestion = questions.length() - 1;
                     JSONObject question = questions.getJSONObject(q);
                     String image = question.getString("image");
                     String correct = question.getString("correct");
-                    questionItems.add(new Question(
-                            image,
-                            correct
-                    ));
+                    questionItems.add(new Question(image, correct));
+
                 }
             }
         }catch (JSONException e){

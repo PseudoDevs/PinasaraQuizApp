@@ -15,4 +15,5 @@ public class Question {
     public String getCorrect() {
         return correct;
     }
+
 }

@@ -4,19 +4,27 @@
       "questions": [
         {
           "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
           "correct": "// wag alisin"
         },
         {
-          "image": "region1",
-          "correct": "correct 1"
+          "image": "quiz_bg",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "A"
         },
         {
-          "image": "region1",
-          "correct": "correct 2"
-        },
-        {
-          "image": "region1",
-          "correct": "correct 3"
+          "image": "splash",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "B"
         }
       ]
     }
@@ -27,10 +35,6 @@
         {
           "image": "// wag alisin",
           "correct": "// wag alisin"
-        },
-        {
-          "image": "region1",
-          "correct": "region1"
         },
         {
           "image": "region1",
@@ -57,10 +61,6 @@
         {
           "image": "duck",
           "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
         }
       ]
     }

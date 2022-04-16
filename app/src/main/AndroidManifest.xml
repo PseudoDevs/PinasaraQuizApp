@@ -20,6 +20,7 @@
         <activity android:name=".RegionActivity" android:exported="false"/>
         <activity android:name=".levelActivity" android:exported="false"/>
         <activity android:name=".quizActivity" android:exported="false"/>
+        <activity android:name=".RegionComplete" android:exported="false"/>
     </application>
 
 </manifest>

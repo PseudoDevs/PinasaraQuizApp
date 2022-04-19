@@ -4,19 +4,30 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
         {
-          "image": "dog",
-          "correct": "dog"
+          "image": "quiz_bg",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "A",
+          "trivia": "q1"
         },
         {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
+          "image": "splash",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "B",
+          "trivia": "q2"
         }
       ]
     }
@@ -26,19 +37,30 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
         {
-          "image": "dog",
-          "correct": "dog"
+          "image": "quiz_bg",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "A",
+          "trivia": "q1"
         },
         {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
+          "image": "splash",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "B",
+          "trivia": "q2"
         }
       ]
     }
@@ -48,19 +70,30 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
         {
-          "image": "dog",
-          "correct": "dog"
+          "image": "quiz_bg",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "A",
+          "trivia": "q1"
         },
         {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
+          "image": "splash",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "B",
+          "trivia": "q2"
         }
       ]
     }

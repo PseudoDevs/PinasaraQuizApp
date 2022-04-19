@@ -4,6 +4,8 @@ package pinasarap.quiz.app;
 import android.app.Dialog;
 import android.content.Context;
 import android.content.Intent;
+import android.media.Image;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -34,6 +36,7 @@ public class quizActivity extends AppCompatActivity {
     Button ans1,ans2,ans3;
 
     int score = 0;
+    MediaPlayer correctMediaPlayer,wrongMediaPlayer;
 
 
     @Override
@@ -63,28 +66,35 @@ public class quizActivity extends AppCompatActivity {
             case R.id.ans1:
                 if(questionItems.get(currentLevel).getCorrect().equals("A")){
                     score++;
+                    correctMediaPlayer.start();
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans1.getText().toString());
-
                 }else{
+                    wrongMediaPlayer.start();
                     wrongAnswer(fAnswer());
                 }
+                MainActivity.editor.putString("getTrivia",questionItems.get(currentLevel).getTrivia());
                 break;
             case R.id.ans2:
                 if(questionItems.get(currentLevel).getCorrect().equals("B")){
                     score++;
+                    correctMediaPlayer.start();
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans2.getText().toString());
                 }else{
+                    wrongMediaPlayer.start();
                     wrongAnswer(fAnswer());
                 }
+                MainActivity.editor.putString("getTrivia",questionItems.get(currentLevel).getTrivia());
                 break;
             case R.id.ans3:
                 if(questionItems.get(currentLevel).getCorrect().equals("C")){
                     score++;
+                    correctMediaPlayer.start();
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans3.getText().toString());
                 }else{
+                    wrongMediaPlayer.start();
                     wrongAnswer(fAnswer());
                 }
                 break;
@@ -122,12 +132,11 @@ public class quizActivity extends AppCompatActivity {
         dialog.setCancelable(false);
         dialog.setContentView(R.layout.ans_dialog);
 
-TextView resultAns = (TextView) dialog.findViewById(R.id.textView4);
+        TextView resultAns = (TextView) dialog.findViewById(R.id.textView4);
         TextView cAns = (TextView) dialog.findViewById(R.id.textView6);
 
         resultAns.setText(rAns);
         cAns.setText(caf);
-
 
         Button gotoTrivia = (Button) dialog.findViewById(R.id.button8);
         Button skipTrivia = (Button) dialog.findViewById(R.id.button9);
@@ -135,7 +144,8 @@ TextView resultAns = (TextView) dialog.findViewById(R.id.textView4);
         gotoTrivia.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+                showTrivia();
+                dialog.dismiss();
             }
         });
 
@@ -157,6 +167,36 @@ TextView resultAns = (TextView) dialog.findViewById(R.id.textView4);
         dialog.show();
     }
 
+    public void showTrivia(){
+        Dialog dialog=new Dialog(this,android.R.style.Theme_DeviceDefault_Light_NoActionBar_Fullscreen);
+        dialog.setCancelable(false);
+        dialog.setContentView(R.layout.trivia_popup);
+
+        Button close_trivia = (Button)dialog.findViewById(R.id.close_trivia);
+        TextView textView3 = (TextView)dialog.findViewById(R.id.textView3);
+        textView3.setText(questionItems.get(currentLevel).getTrivia());
+        ImageView imageView5 = (ImageView)dialog.findViewById(R.id.imageView5);
+        Context context = imageView5.getContext();
+        int id = context.getResources().getIdentifier(questionItems.get(currentLevel).getImage(), "drawable", context.getPackageName());
+        imageView5.setImageResource(id);
+
+        close_trivia.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(totalQuestion != currentLevel) {
+                    currentLevel++;
+                    setQuestion(currentLevel);
+                }else{
+                    Log.d("status","Wala ng susunod");
+                    Intent intent = new Intent(quizActivity.this,RegionComplete.class);
+                    startActivity(intent);
+                }
+                dialog.dismiss();
+            }
+        });
+
+        dialog.show();
+    }
     private void loadAllQuestions(String level,String region) {
         questionItems = new ArrayList<>();
         String jsonStr = loadJSONFromAssets(region);
@@ -177,13 +217,15 @@ TextView resultAns = (TextView) dialog.findViewById(R.id.textView4);
                     String ans1 = question.getString("btn1");
                     String ans2 = question.getString("btn2");
                     String ans3 = question.getString("btn3");
+                    String trivia = question.getString("trivia");
                     questionItems.add(new Question(
                             image,
                             correct,
                             text,
                             ans1,
                             ans2,
-                            ans3
+                            ans3,
+                            trivia
                     ));
 
                 }
@@ -218,5 +260,7 @@ TextView resultAns = (TextView) dialog.findViewById(R.id.textView4);
         ans1 = (Button) findViewById(R.id.ans1);
         ans2 = (Button) findViewById(R.id.ans2);
         ans3 = (Button) findViewById(R.id.ans3);
+        correctMediaPlayer = MediaPlayer.create(this,R.raw.correct_music);
+        wrongMediaPlayer = MediaPlayer.create(this,R.raw.wrong_music);
     }
 }

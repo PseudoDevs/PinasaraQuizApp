@@ -8,7 +8,8 @@
           "btn1": "// wag alisin",
           "btn2": "// wag alisin",
           "btn3": "// wag alisin",
-          "correct": "// wag alisin"
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
         {
           "image": "quiz_bg",
@@ -16,7 +17,8 @@
           "btn1": "a1",
           "btn2": "a2",
           "btn3": "a3",
-          "correct": "A"
+          "correct": "A",
+          "trivia": "q1"
         },
         {
           "image": "splash",
@@ -24,7 +26,8 @@
           "btn1": "a1",
           "btn2": "a2",
           "btn3": "a3",
-          "correct": "B"
+          "correct": "B",
+          "trivia": "q2"
         }
       ]
     }

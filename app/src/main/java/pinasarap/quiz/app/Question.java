@@ -1,15 +1,16 @@
 package pinasarap.quiz.app;
 
 public class Question {
-    private String image,correct,text,ans1,ans2,ans3;
+    private String image,correct,text,ans1,ans2,ans3,trivia;
 
-    public Question(String image, String correct, String text, String ans1, String ans2, String ans3) {
+    public Question(String image, String correct, String text, String ans1, String ans2, String ans3,String trivia) {
         this.image = image;
         this.correct = correct;
         this.text = text;
         this.ans1 = ans1;
         this.ans2 = ans2;
         this.ans3 = ans3;
+        this.trivia = trivia;
     }
 
     public String getImage() {
@@ -36,4 +37,7 @@ public class Question {
         return ans3;
     }
 
+    public String getTrivia() {
+        return trivia;
+    }
 }

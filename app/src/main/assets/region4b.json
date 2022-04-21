@@ -1,0 +1,203 @@
+{
+  "Easy": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "correct": "// wag alisin"
+        },
+		{
+          "image": "splash",
+          "text": "Ang adobong pugita ay anong seafood??",
+          "btn1": "Tuna",
+          "btn2": "Octopus",
+          "btn3": "Tulingan",
+          "correct": "B",
+          "trivia": "Ang Adobong pugita ay isang Filipino specialty na nagmula sa Occidental Mindoro. Ang adobo dish na ito ay ginawa gamit ang mature octopus na niluto sa kumbinasyon ng suka at toyo. Kasama sa iba pang karaniwang sangkap ang bawang, sibuyas, langis, at dahon ng bay para sa pampalasa."
+        }
+		{
+          "image": "splash",
+          "text": "Isang masarap na ginataan ng mga taga Occidental Mindoro ang Ginataang Puso ng?",
+          "btn1": "Saging",
+          "btn2": "Kawayan",
+          "btn3": "Gabi",
+          "correct": "A",
+          "trivia": "Ginataang puso ng saging is a traditional Filipino dish originating from Occidental Mindoro. Ito ay gawa sa kumbinasyon ng mga bulaklak ng saging (puso ng saging), diced na baboy, at sili na niluto sa sarsa ng niyog."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Manakla ay naglalaman ng seafood na?",
+          "btn1": "Hipon",
+          "btn2": "Sea Orchin",
+          "btn3": "Ulang",
+          "correct": "C",
+          "trivia": "Ang lutuing Marinduque ay isang kanlungan para sa mga mahilig sa seafood. Ang Manakla ay ang lokal na Marinduque na salita para sa ulang, at ito ay iba't ibang uri ng ulang lalo na sikat sa Marinduque, at regular na ginagamit bilang protina para sa bawat uri ng recipe na maiisip mo."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Uraro ng Marinduque ay gawa sa ugat ng?",
+          "btn1": "Gabi",
+          "btn2": "Kalabasa",
+          "btn3": "Arrow Root",
+          "correct": "C",
+          "trivia": "Ang arrowroot cookies, o kung tawagin ito ng mga Marinduqueño, arurut, ay tuyo, pulbos, kasing laki ng bulaklak na cookies na gawa sa arrowroot flour."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Kalamay-dampa ay may mga sangkap na?",
+          "btn1": "Giniling na Bigas, Gata at Asukal",
+          "btn2": "Giniling na Bigas, Keso, Asukal",
+          "btn3": "Giniling na Bigas, Tyokolate, Asukal",
+          "correct": "A",
+          "trivia": "Ang Kalamay ay binubuo ng giniling na glutinous rice, gata ng niyog, at brown sugar. Ito ay sikat na inihain sa isang bao ng niyog o sa mga hiwa sa dahon ng saging."
+        }
+        {
+          "image": "dog",
+          "correct": "dog"
+        },
+        {
+          "image": "duck",
+          "correct": "duck"
+        },
+        {
+          "image": "fish",
+          "correct": "fish"
+        }
+      ]
+    }
+  ],
+  "Medium": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "correct": "// wag alisin"
+        },
+		{
+          "image": "splash",
+          "text": "Anong Seafood ang laman ng Ulang Ulang?",
+          "btn1": "Tuna",
+          "btn2": "Lobster",
+          "btn3": "Alimango",
+          "correct": "C",
+          "trivia": "Ang Ulang-ulang ay isa sa mga top must-try native dishes sa Marinduque. Isa itong seafood dish na gawa sa karne ng alimango mula sa katutubong uri ng alimango sa Marinduque na tinatawag na kagang."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Tinudtod ay galing sa dinurog na?",
+          "btn1": "Gabi",
+          "btn2": "Saging",
+          "btn3": "Balinghoy",
+          "correct": "B",
+          "trivia": Binubuo ito ng mga hiwa ng saba na saging, isang katutubong uri ng saging sa Pilipinas, na pinagsama-sama at isinasawsaw sa isang espesyal na timpla. Ito ay pinirito sa mainit na mantika hanggang sa maging ginintuang kayumanggi ang tinudtod."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Adobo sa Gata ng Marinduque ay karne ng?",
+          "btn1": "Baboy",
+          "btn2": "Baka",
+          "btn3": "Native na Manok",
+          "correct": "C",
+          "trivia": "Ang katutubong manok ay ginagamit pagkatapos ay inatsara at binawasan sa tipikal na recipe ng adobo marinade maliban sa gata ng niyog. Nagdaragdag din ang mga Marinduqueño ng mga hiwa ng berdeng papaya at isang dash ng turmeric para maging dilaw ang kulay nito."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Maruya ay ginagamitan ng mga hiniwang?",
+          "btn1": "Saging",
+          "btn2": "Gabi",
+          "btn3": "Balinghoy",
+          "correct": "A",
+          "trivia": "Gumagamit din si Maruya ng saging na saba, maliban sa hiniwang patayo, para sa mas patag na hugis. Ang mga hiwa ng saging ay isinasawsaw sa espesyal na batter, nilinya upang bumuo ng isang kama ng mga hiwa ng saging, at pinirito."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Kari-Kari ng Marinduque ay iba sa Karekare dahil ito ay magkahalong?",
+          "btn1": "Adobo at Bopis",
+          "btn2": "Bopis at Dinuguan",
+          "btn3": "Ginataan at Dinuguan",
+          "correct": "B",
+          "trivia": "Sa Marinduque, ang kare-kare, o tinatawag nilang Kari-Kari, ay isang krus sa pagitan ng bopis at dinuguan. Para itong bopis na may dugong baboy at pinatuyong bersyon ng dinuguan. Ang Kari-Kari ng Marinduque ay binubuo ng mga laman-loob ng baboy tulad ng puso, maliit na bituka, bato, pali, at dugo nito. Niluto din ito ng bawang, sibuyas, at sili."
+        }
+        {
+          "image": "dog",
+          "correct": "dog"
+        },
+        {
+          "image": "duck",
+          "correct": "duck"
+        },
+        {
+          "image": "fish",
+          "correct": "fish"
+        }
+      ]
+    }
+  ],
+  "Hard": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "correct": "// wag alisin"
+        },
+		{
+          "image": "splash",
+          "text": "Ang Saludsod ay may mga sangkap na?",
+          "btn1": "Arrow Root, gata, harina, asukal",
+          "btn2": "Giniling na Bigas, asukal, gata",
+          "btn3": "Giniling na Malagkit, Gatas ng Kalabaw, Asukal",
+          "correct": "A",
+          "trivia": "Ang lokal na pancake na ito ay ginawa gamit ang isang espesyal na batter gamit ang mga katutubong sangkap, kabilang ang arrowroot powder, gata ng niyog, harina, at asukal."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Laing Marinduque ay madalas hinahaluan ng?",
+          "btn1": "Toyo at Suka",
+          "btn2": "Alamang at Bagoong",
+          "btn3": "Patis at Bagoong",
+          "correct": "B",
+          "trivia": "Ang masarap na katutubong laing recipe ng Marinduque ay gumagamit ng mga dahon at ugat ng gabi (kilala rin bilang taro). Ang mga sangkap na ito ay niluto gamit ang gata ng niyog. Para mas malasang lasa ang ulam, hinahalo din sa ulam ang hipon o bagoong."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Niyubak ay pinaghalo halong?",
+          "btn1": "Kamote, Gabi, at saging",
+          "btn2": "Saging, Balinghoy, Mais, Ube",
+          "btn3": "Niyog, Saging, Kamote",
+          "correct": "B",
+          "trivia": "Gumagamit ang Niyubak ng mga starchy na sangkap tulad ng saba na saging, kamoteng-kahoy, taro corn, o ube at dinidilig ang mga ito upang maging malambot."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Sampilok ay gawa sa??",
+          "btn1": "Cocoa",
+          "btn2": "Keso",
+          "btn3": "Gatang Niyog",
+          "correct": "C",
+          "trivia": "Ang Sapililok ay simpleng bersyon ng syrup ng panutsa, na ginawa sa pamamagitan ng pagluluto ng asukal sa niyog sa gata ng niyog o gata. Ang sapililok ay kadalasang ginagamit bilang pansawsaw ng suman o tininta suman sa Marinduque."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Tinigang na Sapsap ay sinaing na nilagyan ng mga sangkap.",
+          "btn1": "Malunggay, Kalabasa, Talong",
+          "btn2": "Kamatis, Kalamansi o Sampalok",
+          "btn3": "Ampalaya, Pipino, Patolo",
+          "correct": "B",
+          "trivia": "Ang tinigang na sapsap ay niluto na katulad ng pinangat na ulam, ibig sabihin ang sapsap na isda ay nilaga ng mga pampaasim tulad ng kamatis, calamansi, o sampalok."
+        }
+        {
+          "image": "dog",
+          "correct": "dog"
+        },
+        {
+          "image": "duck",
+          "correct": "duck"
+        },
+        {
+          "image": "fish",
+          "correct": "fish"
+        }
+      ]
+    }
+  ]
+}

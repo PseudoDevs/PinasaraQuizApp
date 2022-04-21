@@ -6,18 +6,63 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang Bagon ay salitang bagoong na hango sa______?",
+          "btn1": "A. Ilocano",
+          "btn2": "B. Chavacano",
+          "btn3": "C. Batangeno",
+          "correct": "B",
+          "trivia": "Bagon is Chavacano for bagoong. Ang Chavacano ay ang wikang creole na sinasalita sa Zamboanga, na lubos na nakabatay sa Espanyol. Ang bagon de gata ay bagoong alamang, o hipon na pinagaling ng asin, na niluluto sa gata, o gata ng niyog. Ang bagoong alamang ay dahan-dahang niluluto sa gata hanggang sa lumapot at nahati sa bagon de gata at langis ng niyog."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang tahong na niluto ay maaring tumagal hanggang____?",
+          "btn1": "A. 1-2 araw",
+          "btn2": "B. 2-3 araw",
+          "btn3": "C. 3-4 araw",
+          "correct": "C",
+          "trivia": "Ang Baked Tahong o Baked Mussels ay isang paboritong pampagana na seafood dish. Napakarami ng tahong sa mga lugar sa baybayin kung saan ang mga ito ay sariwa na inaani araw-araw at ibinebenta sa murang halaga. Kung nasa Pilipinas ka, hindi magiging isyu ang pagkuha ng sariwang tahong."
+        },
         {
           "image": "dog",
           "correct": "dog"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Sa ating bansa, ang bulad ay madalas tawaging____?",
+          "btn1": "A. Isda",
+          "btn2": "B. Daing",
+          "btn3": "C. Ginisa",
+          "correct": "B",
+          "trivia": "Ang Sarciadong Daing o Sarciadong Bulad ay isang mabilis at madaling recipe na kinasasangkutan ng daing. Ang pritong daing ay mabilis na niluto gamit."
         },
         {
           "image": "duck",
           "correct": "duck"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang curacha ay tinatawag din sa salitang____?",
+          "btn1": "A. Hipon",
+          "btn2": "B. Red Frog",
+          "btn3": "C. Hito",
+          "correct": "B",
+          "trivia": "Ang Curacha ay kilala rin bilang spanner o pulang palaka at tradisyonal na matatagpuan mula sa Zamboanga at hindi saanman. Ito ay isang hybrid crustacean, isang malaking pulang alimango na nananatili sa parehong kulay kahit na matapos itong luto. Kakaiba rin sa pagkakaroon ng karne nito sa katawan sa halip na sa mga kuko nito."
+        },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang ginamos ay mas kilala sa salitang____?",
+          "btn1": "A. Bagoong",
+          "btn2": "B. Isda",
+          "btn3": "C. Binuro",
+          "correct": "A",
+          "trivia": "Sa timog Visayas at Mindanao, ang mga bagoong na isda na gawa sa bagoong ay kilala bilang guinamos binabaybay din na ginamos. Ang mas malaking fermented fish ay kilala bilang tinabal. Ang bagoong ay maaari ding gawin mula sa krill. Kilala ang ganitong uri ng bagoong bilang bagoong alamang."
+        },
       ]
     }
   ],
@@ -28,18 +73,63 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang pagkain na ito ay makikita din sa bansang_____?",
+          "btn1": "A. Japan",
+          "btn2": "B. Thailand",
+          "btn3": "C. Indonesia",
+          "correct": "C",
+          "trivia": "Ang katakam-takam na Satti na ito ay ginawa gamit ang napakasimpleng masarap na mga tipak ng malambot na inihaw na kabob ng baka. Ito ay kinakain kasama ng kanin na niluto sa dahon ng niyog, na ibinabad sa klasikong mindanao na kulay pula na maanghang na sarsa. Ayon sa kaugalian, ang Satti ay paborito, isang karaniwang brunch na pagkain sa mindanao, Pilipinas at ito ay palaging patok sa mga lokal na residente. Ang pinakamahusay na recipe ng brunch na tatangkilikin ng lahat."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang itsura ng tagkatak ay maihahalintulad sa____?",
+          "btn1": "A. Fried pancit ",
+          "btn2": "B. Tinapay",
+          "btn3": "C. Noodles",
+          "correct": "A",
+          "trivia": "mala-net na meryenda ng giniling na malagkit na batter na hinaluan ng gata ng niyog, pinalo na itlog ng manok, at asukal."
+        },
         {
           "image": "dog",
           "correct": "dog"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang ensalada de latu ay may sangkap na____?",
+          "btn1": "A. Sea weed",
+          "btn2": "B. sitaw",
+          "btn3": "C. kalabasa",
+          "correct": "A",
+          "trivia": "Ang Seaweed Salad o Ensaladang Lato ay isang uri ng Filipino salad na gumagamit ng nakakain na seaweed bilang pangunahing sangkap nito. Ang mga uri ng damong-dagat na ito ay kung minsan ay tinatawag na sea grapes dahil sa hitsura nitong parang ubas."
         },
         {
           "image": "duck",
           "correct": "duck"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang paklay ay may sangkap na lamang loob ng_____?",
+          "btn1": "A. Baboy",
+          "btn2": "B. Manok",
+          "btn3": "C. Kambing",
+          "correct": "A",
+          "trivia": "Ang recipe ng paklay na ito ay simple at prangka. Para sa mga hindi pamilyar sa ulam na ito, ang paklay ay nilagang gawa sa lamang-loob ng baboy at baka. Ang pagkaing ito ay sikat sa katimugang bahagi ng Pilipinas at pinakamainam na tinatangkilik bilang pangunahing ulam o bilang pulutan."
+        },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang morisqueta ay isang uri ng pagkain na_____?",
+          "btn1": "A. Kakanin",
+          "btn2": "B. Ulam",
+          "btn3": "C. Fried rice",
+          "correct": "C",
+          "trivia": "Ang Morisqueta Tostada ay isang napakalumang recipe ng Filipino na isang uri ng fried rice, ito ay inihanda gamit ang mga natirang lutong kanin na pinirito na may mga itlog, Chinese sausage, ham, hipon, at spring onions."
+        },
       ]
     }
   ],
@@ -50,18 +140,63 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang arroz Valenciana ay maihahalintulad sa pagkaing tinatawag na___?",
+          "btn1": "A. Kilawin",
+          "btn2": "B. Adobo",
+          "btn3": "C. Paella",
+          "correct": "C",
+          "trivia": "Ang Arroz Valenciana ay isang ulam na katulad ng Paella. Gumagamit ang Filipino version ng ulam na ito ng gata ng niyog, malagkit, nilagang itlog, at chorizo, na siyang kahulugan ng recipe na ito."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang chicken pyanggang ay orihinal na nag mula sa_____?",
+          "btn1": "A. Luzon",
+          "btn2": "B. Visayas",
+          "btn3": "C. Mindanao",
+          "correct": "B",
+          "trivia": "Chicken pyanggang is a chicken dish from Mindanao. Dito, ang manok ay inatsara sa isang curry paste na gawa sa itim na niyog. Huwag mag-atubiling ayusin ang antas ng pampalasa ng pagkaing Filipino na ito sa pamamagitan ng pagdaragdag o pagbabawas ng dami ng sili."
+        },
         {
           "image": "dog",
           "correct": "dog"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang ensaladang chamba ay kilala rin sa tawag na____?",
+          "btn1": "A. Ensaladang filipino",
+          "btn2": "B. Ensaladang itlog",
+          "btn3": "C. Ensaladang kamatis",
+          "correct": "A",
+          "trivia": "Ang Ensaladang Filipino ay isang uri ng salad na binubuo ng talong, sibuyas, at kamatis. Mayroon itong simpleng vinaigrette dressing at kung minsan ay inihahain kasama ng shrimp paste. Ang Ensaladang Filipino ay kilala rin bilang ensaladang talong."
         },
         {
           "image": "duck",
           "correct": "duck"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang tamale ay madalas na may lahok na____?",
+          "btn1": "A. Karne ng manok",
+          "btn2": "B. Laman ng isda",
+          "btn3": "C. Karne ng baka",
+          "correct": "A",
+          "trivia": "Ang Filipino Tamales ay isang tradisyonal na delicacy ng Kapampangan na magugustuhan mo para sa almusal o meryenda. Gawa sa harina ng bigas, gata ng niyog, at peanut butter, nilagyan ng manok at itlog at pinasingaw hanggang perpekto, nakakabusog at masarap ang mga ito."
+        },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang chupa kulo ay tinatawag din sa Luzon na_____?",
+          "btn1": "A. Kohol",
+          "btn2": "B. Alimasag",
+          "btn3": "C. Carpita",
+          "correct": "A",
+          "trivia": "Ang Chupa Kulo ay isang ulam ng mga nilutong kuhol na may malapot, sarsa tulad ng dinala na gawa sa kalabasa at gata ng niyog."
+        },
       ]
     }
   ]

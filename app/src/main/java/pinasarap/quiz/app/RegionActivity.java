@@ -15,13 +15,10 @@ public class RegionActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.regions);
-
         mediaPlayer = MediaPlayer.create(this,R.raw.touch_music);
-
     }
 
     public void region(View v){
-
         switch (v.getId()) {
             case R.id.region1:
                 MainActivity.editor.putString("regionSelected","region1.json").commit();

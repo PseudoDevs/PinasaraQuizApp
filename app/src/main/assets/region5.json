@@ -6,6 +6,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Saang Lugar Orihinal na ginawa ang Bicol Express?",
+          "btn1": "Albay",
+          "btn2": "Sorsogon",
+          "btn3": "Malate",
+          "correct": "C",
+          "trivia": "Ang pinakasikat na pagkaing Bicolano ay hindi talaga nagmula sa Bicol. Ang tingin ng ibang bahagi ng Pilipinas sa Bicol express ay isang nilagang mayaman sa niyog na gawa sa mga tipak ng baboy, malalaking piraso ng sili, at shrimp paste-isang recipe na batay sa orihinal na likha ng Malate."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Laing Bicol ay gawa sa pinatuyong dahon ng?",
+          "btn1": "Gabi",
+          "btn2": "Balinghoy",
+          "btn3": "Kamote",
+          "correct": "A",
+          "trivia": "Ang isa pang icon ng Bicolano ay laing o natong. Bagama't maaaring mukhang isang hamak na ulam na gulay, talagang nakakalito itong gawin. Kapag hindi tama ang paghahanda, ang mga tuyong dahon ng gabi ay maaaring kumamot sa iyong dila. Ngunit kapag perpekto, ito ay isang kasiya-siyang medley ng nilagang gulay, gata ng niyog, sili, at, paminsan-minsan, isda, baboy, o manok."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Kinunot Ginataang Malunggay at nilalagyan ng?",
+          "btn1": "Pugita",
+          "btn2": "Tuna",
+          "btn3": "Pating o Stingray",
+          "correct": "C",
+          "trivia": "Sa ulam na ito, ang laging naroroon na gata ng niyog ay nakikipagtulungan sa mga dahon ng malunggay upang bihisan ang tipak ng stingray o karne ng pating."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Kandingga ay tulad ng bopis na laman ay anong parte ng baboy?",
+          "btn1": "Puso at Baga ng baboy",
+          "btn2": "Isaw at atay ng baboy",
+          "btn3": "Ulo at utak ng baboy",
+          "correct": "A",
+          "trivia": " Ang sagot ng Bicolano sa bopis, ang tangy na kandingga ay isang delicacy na may mga ugat ng Kastila, gawa sa tinadtad na baga ng baboy at puso (o iba pang uri ng offal), sibuyas, bawang, suka, at paminta."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Pansit Bato ay orihinal na ginawa sa?",
+          "btn1": "Albay",
+          "btn2": "Naga",
+          "btn3": "Camarines Sur",
+          "correct": "C",
+          "trivia": "Ang PANCIT BATO NG BICOL ay tumutukoy sa munisipalidad ng Bato sa Camarines Sur, kung saan ginagamit ang isang uri ng tuyong pansit na ginagamit para sa pancit."
+        }
         {
           "image": "dog",
           "correct": "dog"
@@ -28,6 +73,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ang Kinalas ay hinahaluan ng?",
+          "btn1": "Baboy at Ulo ng Baka",
+          "btn2": "Laman Loob ng Kalabaw",
+          "btn3": "Utak ng Kambing",
+          "correct": "A",
+          "trivia": "Ang Kinalas ay isang ulam na Bicol na binubuo ng pansit (pancit) na pinalamutian ng kinamot na karne mula sa ulo ng baboy o baka at iba pang bahagi, na pinaganda ng makapal na deep-brown sauce na nagmumula sa utak ng baka o baboy."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Sinantol ng Bicol ay?",
+          "btn1": "Ginisang Santol",
+          "btn2": "Ginataang Santol",
+          "btn3": "Sinangag na Santol",
+          "correct": "B",
+          "trivia": "-Binubuo ito ng ginutay-gutay na santol na may sili at gata kasama ng isda o baboy."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Sinapot sa Tagalog ay?",
+          "btn1": "Ginataang Saging",
+          "btn2": "Bananaque",
+          "btn3": "Maruya",
+          "correct": "C",
+          "trivia": "Ito ay mga saging na saba na hiniwa nang pahaba, na pinirito sa isang batter. Sa Metropolis, kilala ito bilang “Maruya”."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Pili Roll ay may sangkap na?",
+          "btn1": "Pili at Gatas",
+          "btn2": "Pili at Tyokolate",
+          "btn3": "Pili at Keso",
+          "correct": "A",
+          "trivia": "Ang Pili Roll o Pili Cake ay gawa sa malambot na cake roll na puno ng matamis na gatas at tinadtad na pili. Ang chiffon o malambot na cake ng Pili Roll ay malambot at natutunaw sa iyong bibig."
+        }
+		{
+          "image": "splash",
+          "text": "Sa Lugar na ito sa Bicol sikat ang halohalo.",
+          "btn1": "Legazpi",
+          "btn2": "Sorsogon",
+          "btn3": "Tiwi,
+          "correct": "C",
+          "trivia": "Ang Tiwi Halo Halo ay isang treat na maaari mong tangkilikin sa mainit na araw ng tag-araw habang naglalakad sa mga kalye ng Albay. Ito ang pananaw ng rehiyon sa sikat na delicacy ng Filipino."
+        }
         {
           "image": "dog",
           "correct": "dog"
@@ -50,6 +140,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ang Ice cream sa Albay ay madalas lasa ng?",
+          "btn1": "Pili",
+          "btn2": "Sili",
+          "btn3": "Gabi",
+          "correct": "B",
+          "trivia": "Kung sakaling makita mo ang iyong sarili sa Albay, gawin ang iyong sarili ng isang pabor at magpakasawa sa iyong panlasa sa koleksyon ng ice cream ng Albay sa First Colonial Grill sa bayan ng Daraga."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Sinarapan ay?",
+          "btn1": "Tuna",
+          "btn2": "Lobster",
+          "btn3": "Maliliit na Isda(12mm)",
+          "correct": "C",
+          "trivia": "Tinaguriang pinakamaliit na isda sa mundo, ang Sinarapan ay matatagpuan sa ilang anyong tubig sa Camarines Sur. Ang maliliit na isda na ito na may haba na 12mm ay karaniwang ibinebenta sa mga pamilihan bilang mga pinatuyong sapin o cake."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Pinangat Bicol ay Madalas na nilalagyan ng?",
+          "btn1": "Baboy, Alimango at Hipon",
+          "btn2": "Baka, Utak ng baboy",
+          "btn3": "Kalabaw at atay ng baboy",
+          "correct": "A",
+          "trivia": Ang mga sangkap ay nakabalot sa dahon ng gabi bago nilalamon sa gata ng niyog. Ang ulam ay katulad ng laing maliban na ito ay gumagamit ng karne tulad ng baboy, crabmeat, o hipon – depende sa kagustuhan."
+        }
+		{
+          "image": "splash",
+          "text": "Ano ang isdang nilalagay sa Picadillo?",
+          "btn1": "Bangus",
+          "btn2": "Tuna",
+          "btn3": "Tilapia",
+          "correct": "C",
+          "trivia": "Narito ang isa pang pangunahing ulam tuwing fiesta: Ang (pa rin) na niluto na may gata tilapia dish na tinatawag na picadillo. Binalot ng pechay, ang isda ay nilalagyan ng kamatis, bawang, sibuyas, luya at sili na nagbibigay ng iba't ibang lasa."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Kusido ay sinigang na?",
+          "btn1": "Baboy",
+          "btn2": "Manok",
+          "btn3": "Isda",
+          "correct": "C",
+          "trivia": "Tinaguriang "sinigang" ng Bicol, ang kusido ay isang sopas dish na maaari mong gawin sa halos anumang variant ng isda at kamote na tuktok."
+        }
         {
           "image": "dog",
           "correct": "dog"

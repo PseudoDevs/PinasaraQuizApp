@@ -6,6 +6,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ang Utan ay ng orihinal na nag mula sa?",
+          "btn1": "Eastern Visayas",
+          "btn2": "Visayan island",
+          "btn3": "Western Visayas",
+          "correct": "B",
+          "trivia": "Ang utan ay isang sikat na sopas na Pilipino na nagmula sa Visayan Islands. Ang malinaw na sabaw ng gulay na ito ay orihinal na ulam ng mahirap, na may kasamang anumang mga gulay na nasa kamay. Sa ngayon, maaari rin itong magsama ng iba't ibang uri ng mga ugat na gulay at madahong gulay na niluto lamang sa inasnan na tubig."
+        }
+		{
+          "image": "splash",
+          "text": "Bukod sa Pilipinas, ang guso ayy popular din sa bansang?",
+          "btn1": "Thailand",
+          "btn2": Dubai",
+          "btn3": "Indonesia",
+          "correct": "C",
+          "trivia": "Ang "Guso" ay isang lokal na seaweed na sikat sa mga Pilipino. Karaniwan itong ibinebenta sa mga lokal na kainan, food court at ilang lokal na nagbebenta na nagtitinda ng bahay-bahay na pagbebenta ng mga katutubong salad."
+        }
+		{
+          "image": "splash",
+          "text": "Ang sumang budbod ay hinahaluan ng?",
+          "btn1": "Gatas ng baka",
+          "btn2": "Gata ng niyog",
+          "btn3": "Gatas ng kambing",
+          "correct": "B",
+          "trivia": "Ang bubod ay isang glutinous rice delicacy na niluto gamit ang gata ng niyog. Katulad ng suman na nakabalot sa dahon ng saging at pagkatapos ay i-steam sa kaldero hanggang maluto."
+        }
+		{
+          "image": "splash",
+          "text": "Ang butse butse ay ibang bersiyon na pagkain ng?",
+          "btn1": "Tsino",
+          "btn2": "Hapon",
+          "btn3": "Amerikano",
+          "correct": "A",
+          "trivia": "Butse-butse o buchi-buchi isang katutubong kakanin na gawa sa minasa ng kamote, asukal, kalamansi at ginadgad na kamoteng kahoy. Binubuo ito ng bola na may laman na kamote sa loob pagkatapos ay iprito hanggang sa ginintuang kayumanggi. Ang katutubong delicacy na ito ay mula sa central visayas region VII."
+        }
+		{
+          "image": "splash",
+          "text": "Ang binangkal niluluto sa prosesong?",
+          "btn1": "Fried",
+          "btn2": "Baked",
+          "btn3": "Steamed",
+          "correct": "A",
+          "trivia": "Ang Binangkal ay isang uri ng meryenda mula sa mga isla ng Visayas at Mindanao sa Pilipinas. Ito ay ginawa mula sa pinirito na siksik na mga bola ng kuwarta na pinahiran ng mga buto ng linga.."
+        }
         {
           "image": "dog",
           "correct": "dog"
@@ -28,6 +73,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ang shakoy ay isang uri ng?",
+          "btn1": "Kakanin",
+          "btn2": "Tinapay",
+          "btn3": "Ulam",
+          "correct": "B",
+          "trivia": "Ang Shakoy ay isang Filipino donut na pinipilipit, pinirito, at pinahiran ng asukal! Malambot at malambot- ang bango ng masasarap na Filipino donut na ito ay magpapaalala sa iyo ng mga donut na ibinebenta sa iyong lokal na bakery sa kapitbahayan!"
+        }
+		{
+          "image": "splash",
+          "text": "Ang humba ay gawa sa karne ng?",
+          "btn1": "Baka",
+          "btn2": "Kambing",
+          "btn3": "Baboy",
+          "correct": "C",
+          "trivia": "Ang Humba ay isang ulam ng malambot na baboy, inasnan na black beans, at iba't ibang pampalasa. Sa malalim na lasa nito at maraming sangkap, ito ang perpektong kumbinasyon ng matamis at malasang dalawang lasa na kinagigiliwan ng mga Pilipino."
+        }
+		{
+          "image": "splash",
+          "text": "Ang linubihang munggo ay isang uri ng?",
+          "btn1": "Ulam",
+          "btn2": "Minatamis",
+          "btn3": "Kakanin",
+          "correct": "B",
+          "trivia": "Ang Linubihang Munggo ay isang mung bean dish na niluto na may mga kamatis, bawang at pinatuyong bagoong sa ibabaw ng gata ng niyog at tinapos sa coconut cream."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Bas Uy ay may lahok na atay ng?",
+          "btn1": "Baka",
+          "btn2": "Manok",
+          "btn3": "Baboy",
+          "correct": "C",
+          "trivia": "Ang Bas uy ay isang sopas na ulam na binubuo ng atay ng baboy na niluto gamit ang luya, tanglad, at iba't ibang gulay. Ang sikat na Ilonggo dish na ito ay pinakamahusay na tinatangkilik sa almusal, na may mainit na puting kanin at pritong tuyo na isda."
+        }
+		{
+          "image": "splash",
+          "text": "Ang  sea urchin ay animal na matatagpuan sa?",
+          "btn1": "Gubat",
+          "btn2": "Bakawan",
+          "btn3": "Dagat",
+          "correct": "C",
+          "trivia": "Ang pagkaing ito kadalasang kinakain ng hilaw at para sa mga hindi bihasa kumain nito ay maaari rin itong igisa o haluan ng ibat ibat pampalasa dipende sa iyong kagustuhan."
+        }
         {
           "image": "dog",
           "correct": "dog"
@@ -50,6 +140,52 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": " Ang lomboy wine ay gawa sa prutas na?",
+          "btn1": "Ubas",
+          "btn2": "Duhat",
+          "btn3": "Mansanas",
+          "correct": "B",
+          "trivia": "Ang lomboy na alak, ay isang alak ng prutas na Pilipino na gawa sa mga bunga ng black plum o tinatawag na duhat at mayroon itong maliwanag na lila-pulang kulay."
+        }
+		{
+          "image": "splash",
+          "text": Ang piaya ay orihinala na nag mula sa lugar ng?",
+          "btn1": "Cebu",
+          "btn2": "Ilo-Ilo",
+          "btn3": "Bohol",
+          "correct": "A",
+          "trivia": " Ang Piaya ay isang muscovado-filled unlevened flatbread mula sa Pilipinas lalo na karaniwan sa Negros Occidental kung saan ito ay isang sikat na delicacy. Ginagawa ito sa pamamagitan ng pagpuno ng kuwarta na may pinaghalong muscovado at glucose syrup."
+        }
+		{
+          "image": "splash",
+          "text": "Ang baye-baye ay may sangkap na?",
+          "btn1": "Kamote",
+          "btn2": "Langka",
+          "btn3": "Buko",
+          "correct": "C",
+          "trivia": "Ang Baye-Baye ay isang pagkaing Pilipino na gawa sa batang niyog at maaaring bagong ani na palay (pinipig) o mais na ginawang patties."
+        }
+		{
+          "image": "splash",
+          "text": "Ang barquiron ay tinatawag din na?",
+          "btn1": "Polvoron",
+          "btn2": "Rolled cookies",
+          "btn3": "Biscuit",
+          "correct": "B",
+          "trivia": "Ang mga barquillos ay malutong na rolled sticks na maaari lamang kainin bilang meryenda o dessert. Matatagpuan ito halos saanman sa Pilipinas, lalo na ang 4n delicacy store at pasalubong o souvenir shop sa mga Lungsod at lalo na sa mga Probinsya."
+        }
+		{
+          "image": "splash",
+          "text": "Ang otap ay isang pagkain na orihinal na nag mula sa?",
+          "btn1": "ILo-Ilo",
+          "btn2": "Cebu",
+          "btn3": "Bohol",
+          "correct": "B",
+          "trivia": "Ang Otap Recipe na ito ay nagmula sa Cebu at kilala sa buong bansa dahil sa pahaba na hugis ng Otap. Ito ay isang uri ng baked biscuit (cookie) na malutong at pinalamutian ng asukal."
+        }
+		
         {
           "image": "dog",
           "correct": "dog"

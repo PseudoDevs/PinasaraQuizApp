@@ -21,6 +21,7 @@
         <activity android:name=".levelActivity" android:exported="false"/>
         <activity android:name=".quizActivity" android:exported="false"/>
         <activity android:name=".RegionComplete" android:exported="false"/>
+        <activity android:name=".InstructionsActivity" android:exported="false"/>
         <service
             android:name=".musicBg"
             android:stopWithTask="false" />

@@ -6,18 +6,63 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang Tinagtag ay hinahaluan ng _____?",
+          "btn1": "A. Plain Rice",
+          "btn2": "B. Long grain rice, uncooked",
+          "btn3": "C. Ganta Rice",
+          "correct": "C",
+          "trivia": "Ang "TINAGTAG" ay katutubong pagkain ng mga Maguindanao.Ito ay karaniwang hinahanda para sa mga okasyon tulad ng mga pistang muslim ng 'eid al fitr' na siyang katapusan ng ramadan "maulidinnabi" na kaarawan na "propetang mumahad".Ang tinagtag ay maaring tumagal ng ilang buwan nang hindi nasisira."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Caldereta Rice ay hinahaluan _____?",
+          "btn1": "A. Long grain rice, cooked",
+          "btn2": "B. Long Grain rice, uncooked",
+          "btn3": "C. Ganta Rice",
+          "correct": "B",
+          "trivia": "Ang masarap na Caldereta rice na ito ay mataas sa bitamina A na nagpapanatiling malusog sa balat at mata. Ito rin ay pinagmumulan ng protina na tumutulong sa pag-aayos ng mga tisyu ng katawan."
+        },
         {
           "image": "dog",
           "correct": "dog"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Beef Sinina ay hinahaluan ng _______?",
+          "btn1": "A. Baboy",
+          "btn2": "B. Manok",
+          "btn3": "C. Baka",
+          "correct": "B",
+          "trivia": "Ang Beef Sinina- ay isang pagkaing Pilipino na tanyag sa Maguindanao na inihain noong Kalilang at Kanduli."
         },
         {
           "image": "duck",
           "correct": "duck"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang Nilasing na Tilapia ay hinahaluan ng _______?",
+          "btn1": "A. Tilapia",
+          "btn2": "B. Bangus",
+          "btn3": "C. Hipon",
+          "correct": "A",
+          "trivia": "Nilasing na Tilapia- ay tumutukoy sa isang pritong tilapia dish kung saan ang isda ay tinimplahan at inatsara sa alak at pagkatapos ay pinirito hanggang malutong at ginintuang kayumanggi.."
+        },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang Grilled Tuna and Tuna Tacos topped with Cheese ay hinahaluan ng ______?",
+          "btn1": "A. Paminta",
+          "btn2": "B. Keso",
+          "btn3": "C. Baboy",
+          "correct": "B",
+          "trivia": "Grilled Tuna and Tuna Tacos topped with Cheese- Pagsamahin ang chili sauce, yogurt, garlic powder at lime juice sa isang maliit na mangkok at itabi."
+        },
       ]
     }
   ],
@@ -28,18 +73,63 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+{
+          "image": "quiz_bg",
+          "text": " Ang Chicharon Tilapia ay hinahaluan ng ______?",
+          "btn1": "A. Toyo",
+          "btn2": "B. Suka",
+          "btn3": "C. Patis",
+          "correct": "B",
+          "trivia": "Chicharon Tilapia- ay napaka-crunchy at akma para sa meal viand o para sa meryenda. Tatangkilikin mo lang ang karilagan ng Lake Sebu."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Vegetable stew with lamb ay hinahaluan ng _______?",
+          "btn1": "A. Lemon juice",
+          "btn2": "B. Pork",
+          "btn3": "C. Beef",
+          "correct": "A",
+          "trivia": "Ang nilagang gulay na may tupa- ay hindi kumplikado (isang isang palayok na pagkain!) at ito ay kumukulo sa oven nang ilang sandali kaya ang bawat kagat ay ganap na masarap."
+        },
         {
           "image": "dog",
           "correct": "dog"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Homemade Egg McMuffin ay hinahaluan ng ______?",
+          "btn1": "A. Pandesal",
+          "btn2": "B. Keso",
+          "btn3": "C. Pipino",
+          "correct": "B",
+          "trivia": "Homemade Egg McMuffin- Ang grab and go breakfast ay maaaring maging saving grace ng anumang weekday morning. Ang mga itlog sa homemade na Egg McMuffin sandwich recipe na ito ay maaaring lutuin ng batch sa oven, sa stove top, o sa microwave, at gawing pinakamadaling desisyon ang pagkain ng masustansyang almusal sa araw."
         },
         {
           "image": "duck",
           "correct": "duck"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang No Knead Bread ba ay may sangkap na _______?",
+          "btn1": "A. Pulot",
+          "btn2": "B. Gatas",
+          "btn3": "C. Kape",
+          "correct": "A",
+          "trivia": "Walang Knead Bread- Ang tinapay na ito ay hindi nangangailangan ng pagmamasa kaya naman ito ay naging napakapopular. Karaniwang itinatapon mo ang lahat sa isang mangkok, ihalo ito, hayaan itong umupo sa loob ng ilang oras at hayaan ang lebadura na gawin ang trabaho nito, pagkatapos ay i-bake ito."
+        },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang Lettuce Wraps ay hinahaluan ng ________?",
+          "btn1": "A. Manok",
+          "btn2": "B. Itlog",
+          "btn3": "C. Isda",
+          "correct": "A",
+          "trivia": "Lettuce Wraps- Ang Lettuce Wraps ay ginawang giniling na manok (o pabo), sariwang tinadtad na gulay at isang masarap na stir-fry sauce, na inihain sa malamig at malutong na dahon ng lettuce.."
+        },
       ]
     }
   ],
@@ -50,18 +140,63 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+{
+          "image": "quiz_bg",
+          "text": " Ang Tuna Noodle Casserole ay hinahaluan ng______ ?",
+          "btn1": "A. Cream of mushroom Soup",
+          "btn2": "B. Cream of potato Soup",
+          "btn3": "C. Cream of egg Soup",
+          "correct": "A",
+          "trivia": "Tuna Noodle Casserole- ay ang orihinal na dump-and-bake na hapunan, laging handang pumunta mula mismo sa iyong pantry! Haluin ang tuna, nilutong noodles, cream ng mushroom soup at ilan pang pantry na gamit sa isang baking dish, budburan ng buttered bread crumbs at i-pop sa oven."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Anong parte ng manok ang kailangan sa Salsa Chicken Crock Pot?",
+          "btn1": "A. Leeg",
+          "btn2": "B. Dibdib",
+          "btn3": "C. Hita",
+          "correct": "B",
+          "trivia": "A slow cooker meal made with only 4 ingredients is really something to celebrate. The chicken falls apart and becomes immensely tender, flavored with the familiar flavors of chunky salsa and taco seasoning, and brightened up with bursts of lime juice."
+        },
         {
           "image": "dog",
           "correct": "dog"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Tapioca Pudding ba ay nilalahukan ng ________?",
+          "btn1": "A. Banilya",
+          "btn2": "B. Itlog",
+          "btn3": "C. lahat ng sagot",
+          "correct": "C",
+          "trivia": "Tapioca Pudding- ay isang klasikong dessert na nagtatampok ng maliliit na tapioca pearl, gatas, asukal, itlog, at banilya."
         },
         {
           "image": "duck",
           "correct": "duck"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang Pork and Cabbage Stiry Fry ay may _____? ",
+          "btn1": "A. Extra Virgin Olive Oil",
+          "btn2": "B. Lettuce",
+          "btn3": "C. Kangkong",
+          "correct": "B",
+          "trivia": "Pork and Cabbage Stir Fry- Ang luya ay nanggagaling sa makulay na napa cabbage stir-fry na mas mababa sa taba at sodium kaysa marami. Masarap itong ihain sa ibabaw ng steamed rice o cooked noodles"
+        },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang Coconut Pistachio Almond Energy Bars ay hinahaluan ng_______?",
+          "btn1": "A. Olive",
+          "btn2": "B. Peanut",
+          "btn3": "C. Coconut",
+          "correct": "C",
+          "trivia": "Coconut Pistachio Almond Energy Bars- Ang mga bar na ito ay angkop na magkasya sa mga meryenda na may zip-top na plastic bag ngunit madaling nahahati sa mga parisukat."
+        },
       ]
     }
   ]

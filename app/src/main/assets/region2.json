@@ -7,6 +7,51 @@
           "correct": "// wag alisin"
         },
         {
+          "image": "splash",
+          "text": "Anong Pansit ang ginagamit sa Pansit Batil Patung?",
+          "btn1": "Bihon ",
+          "btn2": "Sotanghon",
+          "btn3": "Miki Noodles",
+          "correct": "C",
+          "trivia": "Ang Pancit Batil Patung ay isang sikat na pansit na pagkain sa Tuguegarao City, Cagayan. Binubuo ito ng dalawang bahagi: ang noodles na may mga toppings, at ang sauce na parang egg drop soup."
+        }
+        {
+          "image": "splash",
+          "text": "Saan parte ng kalabaw kinukuha ang Chicarabao?",
+          "btn1": "Mascara",
+          "btn2": "Balat",
+          "btn3": "Tiyan",
+          "correct": "B",
+          "trivia": "Ang Chicharabao ay carabao chicharron. Ang mabulaklak, mahangin, at malutong na meryenda na ito ay gawa sa balat ng kalabaw. Ito ay sikat na bilhin bilang mga souvenir at may iba't ibang lasa na maaari mong piliin.."
+        }
+        {
+          "image": "splash",
+          "text": "Carabao Milk candy ay gawa sa gatas ng?",
+          "btn1": "Kalabaw",
+          "btn2": "Baka",
+          "btn3": "Kambing",
+          "correct": "A",
+          "trivia": "Ang carabao milk candy ay maaaring maging katulad ng pastillas. Ngunit hindi tulad ng pastillas, ang mga ito ay chewy rectangular chips. Isa rin itong magandang souvenir na bilhin.."
+        }
+        {
+          "image": "splash",
+          "text": "Ang Pawa ay kakaning may sangkap na?",
+          "btn1": "Tyokolate at bigas",
+          "btn2": "Keso at Bigas",
+          "btn3": "Bigas at Mani",
+          "correct": "C",
+          "trivia": "Ang Pawa ay isang matamis na meryenda na gawa sa gelatinous rice. Ito ay isang kakanin na puno ng matamis na giniling na mani. Mabibili mo ang mga ito sa mga kalye malapit sa Piat Church.."
+        }
+        {
+          "image": "splash",
+          "text": "Ang Putoflan ay may kasamang anong pagkain?",
+          "btn1": "Lecheflan",
+          "btn2": "Mani",
+          "btn3": "Keso",
+          "correct": "A",
+          "trivia": "Ang mga maliliit na pagkain na ito ay isang pagkakaiba-iba ng puto. Tulad ng pangalan nito, ito ay pinagsama sa Leche flan sa ibaba, na ginagawang mas mahusay."
+        }
+        {
           "image": "region1",
           "correct": "region1"
         },
@@ -28,6 +73,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ang pagkaing Lumot ay galing sa?",
+          "btn1": "Dahon ng Gabi",
+          "btn2": "Seaweeds",
+          "btn3": "Dahon ng Kamote",
+          "correct": "B",
+          "trivia": "Isang ulam na katulad ng Laing ng Bicol, ang Lumot ay isang maalat na seaweed dish. Ang pangalan nito ay hango sa pagkakapare-pareho nito na parang algae at kadalasang ipinares sa iba pang mga plato ng seafood tulad ng inihaw na isda.0."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Ybanag Longganisa ay karne ng?",
+          "btn1": "Baboy",
+          "btn2": "Baka",
+          "btn3": "Kalabaw",
+          "correct": "C",
+          "trivia": "Made by the same guys that produce chicharabao, Tuguegarao's version of the pinoy breakfast favorite, the longganisa, is made from, guess what, carabeef."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Sinanta gawa may sangkap na?",
+          "btn1": "Sotanghon at Miki Noodles",
+          "btn2": Pansit Habhab at Bihon",
+          "btn3": "Bihon at Miki Noodles",
+          "correct": "A",
+          "trivia": "Isa pang pansit na ulam ng mga Ybanag, ang sinanta ay karaniwang kinakain bilang meryenda at inihahain tuwing kaarawan. Ang sopas ay pinaghalong lahat—sotanghon at miki noodles, manok, baboy at tulya, lahat ay lumalangoy sa sabaw na may lasa ng patis.."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Pansit Cabagan ay may maga sangkap na?",
+          "btn1": "Lechon Kalabaw, Miki at gulay",
+          "btn2": "Miki, Lechon baboy carajay, gulay at Itlog ng pugo",
+          "btn3": "Miki, Lechon Kalabaw, gulay at itlog",
+          "correct": "B",
+          "trivia": "Ang manipis na Miki noodle recipe ay pinalamutian ng pork lechon carajay, atay ng baboy o manok, mga gulay, at mga itlog ng pugo."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Binalay ay gawa sa?",
+          "btn1": "Bigas",
+          "btn2": "Keso",
+          "btn3": "Gatas ng Kalabaw",
+          "correct": "A",
+          "trivia": "Kapag nasa Isabela, huwag palampasin ang Binallay; isang katutubong suman delicacy ng lalawigan na gawa sa malagkit na harina at nakabalot sa dahon ng saging. Ang binallay ay niluto sa kumukulong tubig hanggang sa matapos saka ihain kasama ng latik sauce."
+        }
         {
           "image": "region1",
           "correct": "region1"
@@ -50,6 +140,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ang Moriecos ay may sangkap na?",
+          "btn1": "Bigas, Tyokolate, Keso",
+          "btn2": "Bigas, Latik, at Gata",
+          "btn3": "Bigas, Yema Leche Flan",
+          "correct": "B",
+          "trivia": "Ang rice cake na ito (kakanin sa Tagalog) ay pinalamanan ng latik o caramelized na batang niyog, pinasingaw at binalot sa sariwang dahon ng saging."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Lechon Cordero ay Lechong?",
+          "btn1": "Baboy",
+          "btn2": "Baka",
+          "btn3": "Tupa",
+          "correct": "C",
+          "trivia": "Ang ulam na ito ay isang masaganang kumbinasyon ng lamb lechon, na inatsara sa oyster sauce, lemon juice, at red wine. Ito rin ang parehong marinade na iturok sa loob ng lechon."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Sinabago ay malagkit na bigas na ginagawa sa?",
+          "btn1": "Kawayan",
+          "btn2": "Bao ng Niyog",
+          "btn3": "Dahong ng Saging",
+          "correct": "A",
+          "trivia": "Sinabago. Ito ay gawa sa malagkit na bigas sa loob ng kawayan."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Pinataro ay rice dumplings na pwede paresan ng?",
+          "btn1": "Tyokolate",
+          "btn2": "Keso",
+          "btn3": "Latik",
+          "correct": "C",
+          "trivia": "Pinaghalong white sticky rice dumplings at coconut strips ang bumubuo sa mainit na ulam na ito. Ang malagkit na rice dumplings ay inihahain sa makapal na coconut latik cream."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Bibingkang kanin ay may mga sangkap na?",
+          "btn1": "Bigas, Tyokolate, kape, gatas ng baka",
+          "btn2": "Bigas, Gata, Puting asukal, at Kinayod na Niyog",
+          "btn3": "Bigas, Gata, Yema, Latik",
+          "correct": "B",
+          "trivia": "Ang Bibingkang Kanin ay gawa sa malagkit na bigas, gata ng niyog, puting asukal, at karne ng niyog. Sinusunod nito ang mga simpleng pamamaraan."
+        }
         {
           "image": "dog",
           "correct": "dog"

@@ -6,6 +6,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ano ang madalas na nilalagay sa adobo sa gata?",
+          "btn1": "Gatas ng baka",
+          "btn2": "Gata ng niyog",
+          "btn3": "Gatas ng Kalabaw",
+          "correct": "B",
+          "trivia": "Ang Adobo sa gatâ ay isang tradisyonal na nilagang nagmula sa Pilipinas. Ang variation na ito sa adobo ay ginawa sa pagdaragdag ng gata ng niyog."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Belekoy ay may mga sangkap na?",
+          "btn1": "Bigas, Asukal, Apple juice, at Vanilla",
+          "btn2": "Bigas, Asukal, Keso",
+          "btn3": "Bigas, Asukal, Tyokolate",
+          "correct": "A",
+          "trivia": "Ang Belekoy ay isang tradisyonal na panghimagas na Pilipino na nagmula sa Bulacan. Karaniwan itong ginagawa gamit ang kumbinasyon ng glutinous rice flour, brown sugar, tubig, apple juice, vanilla, at toasted sesame seeds."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Bistek Tagalog ay nilalagyan ng karneng?",
+          "btn1": "Baboy",
+          "btn2": "Kambing",
+          "btn3": "Baka",
+          "correct": "C",
+          "trivia": "Ang Bistek Tagalog ay isang tradisyonal na pagkaing karne na nagmula sa Pilipinas. Binubuo ito ng manipis na hiniwang karne ng baka na inatsara at nilaga sa kumbinasyon ng citrus juice (karaniwan ay mula sa lemon, kalamansi, o prutas ng calamansi), sibuyas, bawang, toyo, at paminta."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Inipit ay Orihinal na nanggaling sa?",
+          "btn1": "Bataan",
+          "btn2": "Pampanga",
+          "btn3": "Bulacan",
+          "correct": "C",
+          "trivia": "Ang Inipit ay isang tanyag na panghimagas na Pilipino na binubuo ng dalawang sponge cake na sinamahan ng creamy, mala-custard na palaman. Nagmula ito sa lungsod ng Malolos at inimbento ni Salome P."
+        }
+		{
+          "image": "splash",
+          "text": "Masarap Haluaan ang Kare-Kare ng?",
+          "btn1": "Toyo",
+          "btn2": "Patis",
+          "btn3": "Alamang o Bagoong",
+          "correct": "C",
+          "trivia": "Ang Kare-kare ay isang tradisyunal na nilagang Pilipino na binubuo ng karne tulad ng tripe, leg ng baboy, buntot ng baka, kambing o manok, mga gulay, at isang makapal at malasang peanut sauce na may lasa ng mga buto ng annatto. Ang shrimp paste (bagoong) ay kadalasang inihahain sa gilid upang mapahusay ang lasa ng ulam."
+        }
         {
           "image": "dog",
           "correct": "dog"
@@ -28,6 +73,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ang pagkaing ito ay mula sa Pampanga na parte ng baboy na tinadtad at niluto.",
+          "btn1": "Sisig",
+          "btn2": "Dinakdakan",
+          "btn3": "Bopis",
+          "correct": "A",
+          "trivia": "Ang Sisig ay isang tanyag na pagkaing Pilipino na ginawa sa pamamagitan ng pagpapakulo, paghiwa, at pag-ihaw ng mga bahagi ng ulo ng baboy tulad ng tainga, pisngi, at panga, na pagkatapos ay tinimplahan ng asin, paminta, at suka."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Adobong Tarlac ay binababad bago lutuin sa?",
+          "btn1": "Apple Juice",
+          "btn2": "Lemon Juice",
+          "btn3": "Pineapple Juice",
+          "correct": "C",
+          "trivia": "Ang Adobong Tarlac ay uri ng adobo na sikat sa Tarlac, niluto gamit ang mga karaniwang sangkap tulad ng iyong piniling karne, toyo, suka, toneladang bawang at pineapple juice at pineapples."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Tinapa ng Bataan ay madalas isdang?",
+          "btn1": "Bangus",
+          "btn2": "Galunggong",
+          "btn3": "Matambaka",
+          "correct": "A",
+          "trivia": "May sariling delicacy ang Bataan na pinangalanang ‘tinapa’. Ito ay karaniwan bilang isang homecoming treat o lokal na kilala bilang pasalubong. Ang bangus ay ang nangungunang pagpipilian para sa tinapa na walang buto at malasa, handa para sa craving appetite."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Kamaru ay isang exotic food na nilalagyan ng?",
+          "btn1": "Daga",
+          "btn2": "Palaka",
+          "btn3": "Kuliglig",
+          "correct": "C",
+          "trivia": "-Marahil ito ay isa sa mga pinakamahusay na tradisyon sa pagluluto sa Pampanga. Ito ay tulad ng isang normal na adobo ngunit ang pangunahing sangkap ay pinapalitan ng Kamaru, at kung minsan ay inihahain kasama ng mga kamatis. Ang Kamaru ay isang mole cricket, mula sa pamilya Gryllotalpidae, sa order na Orthoptera."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Betute naman ay isang exotic food na prinitong?",
+          "btn1": "Palaka",
+          "btn2": "Daga",
+          "btn3": "Suso",
+          "correct": "A",
+          "trivia": " Ang Betute o "Stuffed Frog" sa Ingles ay itinuturing na isa sa mga kakaibang pagkain ng Kapampangan sa Pilipinas."
+        }
         {
           "image": "dog",
           "correct": "dog"
@@ -50,6 +140,51 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+		{
+          "image": "splash",
+          "text": "Ang Bibingkang kanin ay may mga sangkap na?Ang Bringhe Kapampangan ay may sangkap na?",
+          "btn1": "Malagkit, baboy, at gatas ng baka",
+          "btn2": "Bigas, Chicken Fillet, Gata ng niyog",
+          "btn3": "Bigas, Baboy, Gatas ng baka",
+          "correct": "B",
+          "trivia": "Ang Bringhe ay isang Filipino na bersyon ng paella at partikular na ito ay isang Kapampangan paella dahil ang brighe o bringhi ay isang Kapampangan na salita."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Turrunes de Casoy ay gawa sa?",
+          "btn1": "Tyokolate, Asukal at Kasoy",
+          "btn2": "Keso, asukal, Kasoy",
+          "btn3": "Pulot, Asukal, Itlog, at Kasoy",
+          "correct": "C",
+          "trivia": "Ang Turrones de Casoy ay isang matamis na pagkain na nakabalot sa papel na ostiya na chewy at malutong bawat kagat! Ginawa mula sa pulot, asukal, itlog at kasoy na mainam bilang meryenda o dessert."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Burong Kapampangan ay madalas nilalagyan ng?",
+          "btn1": "Sitaw, Bataw at patani",
+          "btn2": "Kalabasa, malunggay, Kamote",
+          "btn3": "Talong, Okra at Ampalaya",
+          "correct": "C",
+          "trivia": Isa itong sawsawan na gawa sa fermented rice at freshwater fish (tulad ng mud fish, hito, tilapia) o hipon. Ito ay pinakamahusay na pinagsama sa inihaw, inihaw o pritong isda, sariwang mustasa at singaw o pinakuluang gulay tulad ng okra, talong, at ampalaya."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Pako salad ng Baler ay pinaghalong.",
+          "btn1": "Pako, Kamatis, Sibuyas, at itlog maalat",
+          "btn2": "Pako, Bawang, pipino",
+          "btn3": "Pako, Kamatis, Pipino at Sibuyas",
+          "correct": "A",
+          "trivia": Ang Pako Salad ay ang pangunahing ulam ng gulay sa Baler. Madalas itong ihain bilang ensalada na may kamatis, sibuyas, at inasnan na itlog."
+        }
+		{
+          "image": "splash",
+          "text": "Ang Pininyahang Kulita ay anong Seafood?",
+          "btn1": "Bangus",
+          "btn2": "Dikya",
+          "btn3": "Octopus",
+          "correct": "C",
+          "trivia": "Pininyahang Kulita na may mga pinya at baby octopus bilang sangkap."
+        }
         {
           "image": "dog",
           "correct": "dog"

@@ -6,18 +6,63 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+{
+          "image": "quiz_bg",
+          "text": "ang atsarang labanos ay binababad sa___________?",
+          "btn1": "A. Purple rice sticky",
+          "btn2": "B. Ganta Rice",
+          "btn3": "C. Long grain rice, uncooked",
+          "correct": "A",
+          "trivia": "Ang Sayongsong- ay isang tradisyonal na Filipino steamed rice cake mula sa Surigao del Norte at iba pang lugar ng Caraga Region ng hilagang-kanluran ng Mindanao."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Galapong ay hinahaluan ng ________?",
+          "btn1": "A. Glutinous rice",
+          "btn2": "B. Ganta rice",
+          "btn3": "C. Purple rice sticky",
+          "correct": "A",
+          "trivia": "Galapong- Bersyon ng bibingka na gumagamit ng butil ng glutinous at Jasmine rice."
+        },
         {
           "image": "dog",
           "correct": "dog"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Poot Poot GInamos ay hinahaluan ng _________?",
+          "btn1": "A. Hipon",
+          "btn2": "B. Tilapia",
+          "btn3": "C.  Silver Fish",
+          "correct": "C",
+          "trivia": "Poot GInamos- Ang Delicacy na ito ay hindi pamilyar sa mga Turista at maging sa mga Pilipinong nanggaling sa Maynila. Ang Poot Poot Ginamos ay isang kakaiba at masarap na treat mula sa Surigao."
         },
         {
           "image": "duck",
           "correct": "duck"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang Kinilaw ay hinahaluan ng ________?",
+          "btn1": "A. yellowfin tuna fillet",
+          "btn2": "B. canned tuna",
+          "btn3": "C. dried fish",
+          "correct": "A",
+          "trivia": "Kinilaw- ay isang hilaw na seafood dish at paraan ng paghahanda na katutubong sa Pilipinas."
+        },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang Eggs Benidict ba ay nilalagyan  ba ng ___________?",
+          "btn1": "A. Rice vinegar",
+          "btn2": "B. butter",
+          "btn3": "C. lahat",
+          "correct": "C",
+          "trivia": "Eggs BenEdict- Ay isang karaniwang brunch dish, na binubuo ng dalawang halves ng English muffin, bawat isa ay nilagyan ng Canadian bacon, isang poached egg, at hollandaise sauce."
+        },
       ]
     }
   ],
@@ -28,18 +73,66 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+
+{
+          "image": "quiz_bg",
+          "text": "Ang Ube Biko ba ay hinahaluan ng _______ ?",
+          "btn1": "A. Glutinous rice",
+          "btn2": "B. Cassava",
+          "btn3": "C. lahat",
+          "correct": "A",
+          "trivia": "Ang Ube Biko- ay matamis, chewy, at ginawang sobrang sarap na may lasa ng purple yam at latik na topping."
+        },
         {
           "image": "dog",
           "correct": "dog"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang Tikoy sa Latik ba ay uri ng pritong ulam?",
+          "btn1": "A. Oo",
+          "btn2": "B. Hindi",
+          "btn3": "C. Pwede",
+          "correct": "B",Tikoy sa Latik-  patterned after Kalamay sa Latik, a specialty glutinous dessert in the Southern Tagalog regions."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Cassava Buko Bibingka ay nakabalot sa anong dahon?",
+          "btn1": "A. Plastic",
+          "btn2": "B. Suka",
+          "btn3": "C. Saging",
+          "correct": "C",
+          "trivia": "Cassava Buko Bibingka- Cassava Buko Bibingka or ang iba ang tawag ay Cassava cake naman. Ito ay ginagamitan ng ginadgad na cassava or kamoteng kahoy sa tagalog."
+        },
+
         {
           "image": "duck",
           "correct": "duck"
+        },
+
+{
+          "image": "quiz_bg",
+          "text": "Ang Sizzling Gambas ba ay hinahaluan ________?",
+          "btn1": "A. Hipon",
+          "btn2": "B. Isda",
+          "btn3": "C. Baboy",
+          "correct": "A",
+          "trivia": "HindiSizzling Gambas- ay isang hipon na ulam na itinuturing na parehong pampagana at pangunahing ulam."
         },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang Seafood Platter ba ay may lahok na _________?",
+          "btn1": "A. Lemon juice ",
+          "btn2": "B. Unsalted butter",
+          "btn3": "C. lahat",
+          "correct": "C",
+          "trivia": "Seafood Platter- ay isang seafood dish ng hilaw at lutong shellfish na inihahain ng malamig sa isang platter, kadalasan sa isang kama ng yelo."
+        },
+
       ]
     }
   ],
@@ -50,18 +143,63 @@
           "image": "// wag alisin",
           "correct": "// wag alisin"
         },
+{
+          "image": "quiz_bg",
+          "text": "Anong uri ng karne ang wala sa Chicken Meatball Noodle Soup?",
+          "btn1": "A. Manok",
+          "btn2": "B. Baboy",
+          "btn3": "C. Baka",
+          "correct": "C",
+          "trivia": "Chicken Meatball Noodle Soup- ay malapit nang maging iyong bagong paboritong malamig na day comfort meal. Pinagsasama nito ang makatas, masarap na mga bola-bola ng manok, na may ilang light chicken noodle na sopas, lumalangoy na may malambot na orzo at pinatingkad na may sariwang lemon."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang Chili crab ang may lahok na _______?",
+          "btn1": "A. Luya",
+          "btn2": "B. Luya",
+          "btn3": "C. Kalamansi",
+          "correct": "A",
+          "trivia": "Chili Crab- Pagkatapos mag-eksperimento sa kanyang kusina para sa pamilya at mga kaibigan, naging hit ang kanyang mga alimango, at binuksan ng kanyang pamilya ang kanilang unang restaurant, ang Palm Beach Seafood."
+        },
         {
           "image": "dog",
           "correct": "dog"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang ginagamit sa  Creamy Chicken Pastel ay ?",
+          "btn1": "A. Dibdib",
+          "btn2": "B. Hita",
+          "btn3": "C. Pakpak",
+          "correct": "A",
+          "trivia": "Creamy Chicken Pastel- ay isang comfort food, sa ganang akin. Gustung-gusto kong magkaroon ng mainit na puting bigas na ito. Karaniwan naming ginagawa ang pagkaing ito sa mga espesyal na okasyon."
         },
         {
           "image": "duck",
           "correct": "duck"
         },
+{
+          "image": "quiz_bg",
+          "text": "Ang Vegan Burger ba ay may halok na ______?",
+          "btn1": "A. Manok",
+          "btn2": "B. Baboy",
+          "btn3": "C. lahat",
+          "correct": "B",
+          "trivia": "Vegan Burger- mga lutong bahay na veggie burger na nakabubusog, may lasa at puno ng mga gulay. Ang mga masasarap na burger na puno ng gulay ay mataas sa fiber (5 gramo) at wala pang 200 calories para sa isang patty. Kasama sa recipe ang mga vegan substitutes"
+        },
         {
           "image": "fish",
           "correct": "fish"
         }
+{
+          "image": "quiz_bg",
+          "text": "Ang  Slow Cooker Coconut Pork Curry ay hinahaluan ng ?",
+          "btn1": "A. Curry Powder",
+          "btn2": "B. Toyo",
+          "btn3": "C. Seasoning",
+          "correct": "B",
+          "trivia": "Ang Atcharang labanos ay isang katawagang Filipino na ginagamit para ilarawan ang Adobong Daikon Radish."
+        },
       ]
     }
   ]

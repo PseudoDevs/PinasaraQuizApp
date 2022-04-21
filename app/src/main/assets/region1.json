@@ -13,48 +13,21 @@
         },
         {
           "image": "quiz_bg",
-          "text": "Ang longganisang vigan ay gawa sa anong karne?",
-          "btn1": "A. Baka",
-          "btn2": "B. Baboy",
-          "btn3": "C. Manok",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "A",
+          "trivia": "q1"
+        },
+        {
+          "image": "splash",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "B",
-          "trivia": "Ang mga sausage na ito ay ginawa mula sa giniling na baboy, na hinaluan ng bawang, suka at isang halo ng iba pang lokal na pampalasa. Ang mga ito ay masarap na may maanghang na kagat. Bilang mahilig sa sausage, nasiyahan kami sa mga lasa sa kakaibang pagkaing Vigan na ito."
-        },
-        {
-          "image": "splash",
-          "text": "Ano ano ang mga laman ng Empanada Batac?",
-          "btn1": "A. Repolyo, pasta at giniling na karne ng baka",
-          "btn2": "B. Sitaw, Sili, at giniling na karne ng manok",
-          "btn3": "C. Papaya, Giniling na longganissa at nilagang itlog",
-          "correct": "C",
-          "trivia": " Isa sa mga pinaka-kapansin-pansing katangian ng Batac empanada ay ang maliwanag na kulay kahel. Ang mga empanada ay pinirito at pinalamanan ng berdeng papaya, tinadtad na longganisa na mga sausage at pinakuluang itlog."
-        },
-        {
-          "image": "splash",
-          "text": "Ang karne  na ginagawang Bagnet ay galing sa parte ng anong katawan ng baboy?",
-          "btn1": "A. Hita ng baboy",
-          "btn2": "B. Paa ng baboy",
-          "btn3": "C. Tiyan ng baboy",
-          "correct": "C",
-          "trivia": "Ang Ilocano Bagnet na kilala rin bilang Chicharon Baboy ay piniritong baboy. Ito ay gawa sa pork belly na pinirito sa sarili nitong taba."
-        },
-        {
-          "image": "splash",
-          "text": "Ano-ano ang gulay , lahok, at sangkap na kasama sa Pinakbet ng mga ilokano?",
-          "btn1": "A. Karots, Malunggay, gabi, sili, kangkong, manok at toyo.",
-          "btn2": "B. Patatas, Kamote, Ampalaya, pipino, baka at patis",
-          "btn3": "C. Kamatis, Talong, Sitaw, okra, ampalaya, bagoong, hipon at baboy",
-          "correct": "C",
-          "trivia": "Ang Ilocano dish na ito ay mahalagang nilagang gulay na gawa sa mga kamatis, talong, sitaw, okra, at bitter gourd."
-        },
-        {
-          "image": "splash",
-          "text": "Ang Okoy Tiyosko ay gawa sa anong seafood?",
-          "btn1": "A. Galunggong ",
-          "btn2": "B. Maliit na Hipon",
-          "btn3": "C. Malalaking hipon",
-          "correct": "B",
-          "trivia": "Ang mga masasarap na pagkain na ito ay mga crispy shrimp fritter na niluto sa kanilang shell sa isang glutinous rice batter at hinubog sa isang bilog na anyo. Ang mga okoy fritter ay pinalamutian ng mga sariwang shallots at pinaghalong bawang at sili."
+          "trivia": "q2"
         }
       ]
     }
@@ -72,49 +45,22 @@
           "trivia": "// wag alisin"
         },
         {
-          "image": "splash",
-          "text": "Ang Poqui-poqui ng mga ilokano ay may mga sangkap na?",
-          "btn1": "Itlog, Talong, Kamatis, Sibuyas, Bawang, at Patatas ",
-          "btn2": "Itlog, Ampalaya, Sitaw, Patola,Sibuyas at bawang",
-          "btn3": "Itlog, Balinghoy, Patatas, Pipino, Sibuyas at bawang",
-          "correct": "B",
-          "trivia": "Ang mga masasarap na pagkain na ito ay mga crispy shrimp fritter na niluto sa kanilang shell sa isang glutinous rice batter at hinubog sa isang bilog na anyo. Ang mga okoy fritter ay pinalamutian ng mga sariwang shallots at pinaghalong bawang at sili."
-        },
-        {
-          "image": "splash",
-          "text": "Ang Duldol ay gawa sa?",
-          "btn1": "Giniling na bigas, gata ng niyog, katas ng tubo ",
-          "btn2": "Giniling na bigas, tyokolate, at honey",
-          "btn3": "Giniling na bigas, gatas ng baka, asukal",
+          "image": "quiz_bg",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "A",
-          "trivia": "Ito ay pinaghalong harina ng bigas, gata ng niyog, at katas ng tubo, na patuloy na niluluto sa mahinang apoy. Ang prosesong ito ay kung bakit ito ay makapal ngunit malagkit at hindi kapani-paniwalang masarap. Paborito ang Dudol sa Ilocos, kahit sa mga lokal, kaya hindi ka mahihirapang hanapin ito dito dahil available ito kahit saan."
+          "trivia": "q1"
         },
         {
           "image": "splash",
-          "text": "Ang Chichacorn ay mula sa?",
-          "btn1": "Baboy",
-          "btn2": "Bulaklak",
-          "btn3": "Mais",
-          "correct": "C",
-          "trivia": "Maaaring isipin ng marami na ito ay katulad ng cornick, ngunit ang bersyon ng Ilokano ay gumagamit ng malagkit na puting mais sa halip na ang mga karaniwang dilaw. Ang butil ng mais ay niluluto hanggang sa malutong at semi-puffed, na ginagawang mas madaling ngumunguya."
-        },
-        {
-          "image": "splash",
-          "text": "Ang sukang iloko ay gawa sa?,
-          "btn1": "Tubo ",
-          "btn2": "Buko",
-          "btn3": "Ubas",
-          "correct": "A",
-          "trivia": "Ang Sukang Iloko ay isa pang tanyag na produkto ng rehiyon ng Ilocos na gawa sa lokal na alak na tinatawag na basi. Ang Basi ay nagmula sa pagkuha ng mga katas ng dinurog na tubo, pagkatapos ay pinakuluan at iniimbak sa isang garapon na lupa."
-        },
-        {
-          "image": "splash",
-          "text": "Ang Tupig ilokano ay gawa sa?",
-          "btn1": "Giniling na Bigas, Gatas ng Baka at Langka ",
-          "btn2": "Giniling na Bigas, Kinayod na niyog",
-          "btn3": "Giniling na Malagkit, Gatas ng baka at asukal",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "B",
-          "trivia": "Ang tupig ay binubuo ng glutinous rice cake na may gadgad na niyog at pulot na nakabalot sa dahon ng saging. Ito ay niluto sa apoy ng uling, na nagbibigay sa huling produkto ng mabango at mausok na pahiwatig dito."
+          "trivia": "q2"
         }
       ]
     }
@@ -124,61 +70,30 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
         {
-          "image": "dog",
-          "correct": "dog"
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-          
-        {
-          "image": "splash",
-          "text": "Ang dinengdeng ay maihahalintulad din sa pinakbet ngunit gumagamit lamang ito ng mga gulay na?",
-          "btn1": "Malunggay, Kalabasa, Bulaklak ng kalabasa at alakon ",
-          "btn2": "Sitaw, Malunggay Karrots, Patatas",
-          "btn3": "Repolyo, Sitaw, Malunggay",
+          "image": "quiz_bg",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "A",
-          "trivia": "Ang tupig ay binubuo ng glutinous rice cake na may gadgad na niyog at pulot na nakabalot sa dahon ng saging. Ito ay niluto sa apoy ng uling, na nagbibigay sa huling produkto ng mabango at mausok na pahiwatig dito."
-        }
+          "trivia": "q1"
+        },
         {
           "image": "splash",
-          "text": "Ang dinakdakan sisig ay gawa sa anong parte ng baboy??",
-          "btn1": "Atay, isaw, buto ng baboy ",
-          "btn2": "Hita ng baboy, Tenga, tiyan at likod",
-          "btn3": "Mascara, dila, atay, tenga at utak",
-          "correct": "C",
-          "trivia": "Ang mga Ilokano ay mga taong hindi mahilig sa mga tira. Ito ang dahilan kung bakit ginagawa nilang kahanga-hanga ang anumang kasalukuyang hilaw na sangkap. Nalalapat din ito sa Dinakdakan, isang ulam na parang sisig na gawa hindi lamang sa mga inihaw na piraso ng baboy, kundi mga inihaw na piraso ng madalas na itinatapon na mga bahagi: mukha ng baboy, tainga, atay, dila, at oo, utak."
-        }
-        {
-          "image": "splash",
-          "text": "Ang papaitan ay gawa sa anong parte naman ng baka?",
-          "btn1": "Paa, Tengas, Dila, Mata at ilong.",
-          "btn2": "Isaw ng baka,apdo at puso",
-          "btn3": "Hita, Tiyan, Likod at Tenga ng baka",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "B",
-          "trivia": "Pait” ay isang salitang Filipino na nangangahulugang “mapait,” at ang “pinapaitan” ay halos isinalin sa “gawing mapait.” Ang pangalan na ito ay talagang nagbubuod ng lasa ng ulam na ito. Ginawa gamit ang napakanipis na piraso na malambot na karne ng baka, ox tripe, maliit na bituka, puso, apdo, at malalaking berdeng sili, dadalhin ka ng Dinakdakan sa isang roller coaster ng mga lasa."
-        }
-        {
-          "image": "splash",
-          "text": "Ang Igado ay may mga sangkap na?",
-          "btn1": "Lomo ng baboy, suka, toyo at paminta ",
-          "btn2": "Hita ng baboy, suka, patis, toyo at paminta",
-          "btn3": "Ulo ng baboy, patis, toyo, asukal at paminta",
-          "correct": "A",
-          "trivia": "Gawa sa pork tenderloin at innards, ang Igado ay isang tanyag na lutuing Ilokano na mas gusto mong kumain ng mas maraming kanin. Ang ulam na ito ay may mga bitter notes, ngunit ang matamis-at-maasim na lasa ng pork tenderloin, na ibinabad sa Sukang Iloko, toyo, at paminta, ay nagpapapantay nito."
-        }
-        {
-          "image": "splash",
-          "text": "Ang Insarabasab ay sisig din ngunit ang pinakaiba nito sa dinkdakan sisig ay meron lamang itong sangkap na?",
-          "btn1": "Tiyan ng baboy, Sukang iloko, calamansi at bawang ",
-          "btn2": "Utak ng baboy, Sukang Vigan, sibuyas at bawang",
-          "btn3": "Paa ng baboy, Sukang iloko, calamansi, sibuyas at bawang",
-          "correct": "A",
-          "trivia": "Ang isa pang dapat subukang inihaw na delicacy ng Ilokano ay ang Insarabasab, ang bersyon ng Sisig sa rehiyon. Tulad ng ilan sa mga pagkaing nasa listahang ito, ang pinagkaiba ng Insarabasab ay Sukang Iloko. Ang tiyan o balikat ng baboy ay inatsara magdamag na may Sukang Iloko, calamansi, at bawang. Pagkatapos, niluluto sila sa paraang “Insarabasab”—“may sinunog sa apoy”."
-        }
+          "trivia": "q2"
         }
       ]
     }

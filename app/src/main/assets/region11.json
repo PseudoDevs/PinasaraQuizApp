@@ -4,65 +4,31 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
-{
+        {
           "image": "quiz_bg",
-          "text": " Ang boneless crispy pata ay kailangan muna______bago iprito.",
-          "btn1": "A. Ilaga",
-          "btn2": "B. Ibilad",
-          "btn3": "C. Ibabad",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "A",
-          "trivia": "Ang malutong na pata ay isa sa pinakasikat na pagkain na inoorder habang kumakain sa Davao. Ang buong, deboned pork leg ay simmered sa spices at deep fried to perfection."
+          "trivia": "q1"
         },
-{
-          "image": "quiz_bg",
-          "text": "Ang turon na ito ay isinasawsaw sa _________?",
-          "btn1": "A. Suka",
-          "btn2": "B. Chocolate",
-          "btn3": "C. Toyo",
+        {
+          "image": "splash",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "B",
-          "trivia": "Ang masarap na deep fried dessert na ito ay dapat subukang ulam kapag nasa Davao ka. Ang Durian-Langka (jackfruit) Turon ay pinirito sa lumpia wrapper, at nilagyan ng tradisyonal na bakal. May kasama ring serving ng tablea chocolate dipping sauce."
-        },
-        {
-          "image": "dog",
-          "correct": "dog"
-        },
-{
-          "image": "quiz_bg",
-          "text": "Ang inihaw na tunang ito ay may _______?",
-          "btn1": "A. Calamansi",
-          "btn2": "B. Sibuyas",
-          "btn3": "C. Bawang",
-          "correct": "A",
-          "trivia": "ang inihaw na tuna belly sa Yellow Fin ay isa sa mga pinakasikat na pagkain dito na may simpleng pampalasa ngunit talagang masarap ang lasa. Ito ay chunky ngunit nananatiling malambot sa kabuuan at isang medyo nakakahumaling na ulam."
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-{
-          "image": "quiz_bg",
-          "text": "Ang fried fish with mango sauce ay na ihahantulad sa _________?",
-          "btn1": "A. Nilagang isda",
-          "btn2": "B. sarciado",
-          "btn3": "C. Adobong isda",
-          "correct": "B",
-          "trivia": "Davao City, irekomenda ang pagsakay sa bangka papunta sa liblib na Club Resort Samal na ito sa Samal Island. Bukod sa mga mabuhangin na dalampasigan, asul na tubig at aesthetically pleasing resort front, ang pagkain dito ay talagang dapat subukan."
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
+          "trivia": "q2"
         }
-{
-          "image": "quiz_bg",
-          "text": "Ang kilawing tuna ay binabad sa________? ",
-          "btn1": "A. Suka",
-          "btn2": "B. Kalamyas",
-          "btn3": "C. Kalamansi or lemon juice",
-          "correct": "C",
-          "trivia": "Kinilaw na Tuna o Kilawing Tuna, isang sariwa at maanghang na pagkain ng isda ceviche ng adobong hilaw na tuna na magbibigay kasiyahan sa iyong panlasa."
-        },
       ]
     }
   ],
@@ -71,65 +37,31 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
-        },
-{
-          "image": "quiz_bg",
-          "text": "Ang sinugbang panga ay isdang______? ",
-          "btn1": "A. Tilapia",
-          "btn2": "B. Bangus",
-          "btn3": "C. Tuna",
-          "correct": "C",
-          "trivia": "Ang Inihaw na Panga o Grilled Tuna Jaw ay isang magandang paraan sa paggawa ng inihaw na tuna. Ang recipe na ito ay nangangailangan ng isda na i-marinate sa isang tart Teriyaki sauce sa magdamag. Ang basting sauce ay binubuo ng toyo at granulated white sugar. Pinakamainam na gumamit ng charcoal grill para sa ulam na ito dahil ito ay magbibigay-daan sa iyo upang maluto ang isda nang pantay-pantay. Magbibigay din ito ng magandang mausok na lasa sa iyong ulam."
-        },
-{
-          "image": "quiz_bg",
-          "text": "Ang Law-uy ay naihahantulad sa ______?",
-          "btn1": "A. Bulanglang",
-          "btn2": "B. Pakbet",
-          "btn3": "C. Chop suey",
-          "correct": "A",
-          "trivia": "Ang Law-uy ay isang vegetable soup dish na sikat sa Mindanao, sa unang tingin ay parang dinengdeng o laswa pero iba talaga ang ulam na ito at sa aking napansin ay gumagamit ito ng maraming malansang gulay at root crop. Ang mga dahon ng jute, Okra, Loofah at Taro ang pangunahing gulay na nagbibigay dito ng kakaibang pagkakapare-pareho."
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
         {
-          "image": "dog",
-          "correct": "dog"
-        },
-{
           "image": "quiz_bg",
-          "text": "Ang sinigang na malasugi ay hinahaluan ng________?",
-          "btn1": "A. Lemon",
-          "btn2": "B. Patatas",
-          "btn3": "C. Karots",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
+          "correct": "A",
+          "trivia": "q1"
+        },
+        {
+          "image": "splash",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "B",
-          "trivia": "ang sikat na Filipino na sopas na Sinigang ay tradisyonal na nakabatay sa tamarind. Ang iba pang mga bersyon ng ulam ay nakukuha ang kanilang asim mula sa mga sangkap tulad ng bayabas, calamansi."
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-{
-          "image": "quiz_bg",
-          "text": "Ang halang halang ay may sangkap na __________?",
-          "btn1": "A. Ginataang niyog",
-          "btn2": "B. Luya",
-          "btn3": "C. Lahat ng sagot",
-          "correct": "C",
-          "trivia": "Isa itong ulam ng manok na Bisaya. Karamihan sa mga ulam mula sa rehiyong iyon ay may gata ng niyog sa kanilang pagluluto. Actually ito ay ginataang manok o nilagang manok na may gata ng niyog na kilala sa halos bahagi ng Luzon."
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
+          "trivia": "q2"
         }
-{
-          "image": "quiz_bg",
-          "text": "Ang binaki ay may sangkap na_________?",
-          "btn1": "A. Durog na mais",
-          "btn2": "B. Durog na manga",
-          "btn3": "C. Durog na mansanas",
-          "correct": "A",
-          "trivia": "Ang binaki ay steamed cake na gawa sa grated young corn na may powdered milk, baking powder at asukal na hinaluan ng tubig. Ito ay isang kilalang delicacy ng Northern Mindanao at orihinal na isang homemade dessert sa Bukidnon. Sa katutubong wika, ang pagbibigay ng pangalan sa delicacy na "binaki" ay medyo kakaiba dahil ang termino ay parang baki, na siyang katutubong para sa palaka."
-        },
       ]
     }
   ],
@@ -138,65 +70,31 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
-{
+        {
           "image": "quiz_bg",
-          "text": "Ang sinuglaw may sangkap na tuna cucumber at ___________?",
-          "btn1": "A. Manok",
-          "btn2": "B. Inihaw na liempo",
-          "btn3": "C. Baka",
-          "correct": "B",
-          "trivia": "Ang Sinuglaw ay kumbinasyon ng dalawang paraan ng pagluluto na karaniwang ginagawa sa Visayas at Mindanao: mula sa "sinugba" o inihaw, na tumutukoy sa inihaw na baboy sa ulam na hinihiwa-hiwa, at "kinilaw" o hilaw, na tumutukoy sa hilaw na isda o pagkaing-dagat. ibinabad sa suka ng niyog na may sibuyas, luya, asin, suwa (katutubong kalamansi) at katas ng bunga ng tabon-tabon (katutubong bunga ng chico)."
-        },
-{
-          "image": "quiz_bg",
-          "text": "Ang shrimp salad with pomelo ay may sangkap na _________? ",
-          "btn1": "A. Pipino",
-          "btn2": "B. Langka",
-          "btn3": "C. Manga",
+          "text": "question1",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "A",
-          "trivia": "Halatang galing sa Davao ang recipe na ito, shrimp salad with pomelo fruit slices. Dahil ang pomelo ay isa sa mga uri ng prutas na sagana sa lugar na iyon, marahil iyon ang dahilan kung bakit doon nagmula ang recipe na ito."
+          "trivia": "q1"
         },
         {
-          "image": "dog",
-          "correct": "dog"
-        },
-{
-          "image": "quiz_bg",
-          "text": "Ang Mangosteen Vermicelli Salad with Steamed Prawns & Snow Peas ay may sangkap na_____?",
-          "btn1": "A. Hipon",
-          "btn2": "B. Baka",
-          "btn3": "C. Baboy",
-          "correct": "A",
-          "trivia": "ang mga sili na nagdudulot ng masarap na sipa dito, at ang mint para sa pahiwatig ng pagiging bago sa ulam sa kabuuan. Mula sa orihinal na recipe, ibinasura ko ang baboy dahil dahan-dahan kong pinuputol ang aking karne (hindi kasama ang pagkaing-dagat) mula sa aking diyeta, at sa halip ay pinalitan ito ng juicy jumbo tiger prawns na kasing-sarap!"
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-{
-          "image": "quiz_bg",
-          "text": "Ang durain pie ay nang galling sa lugar na ___________?",
-          "btn1": "A. Bicol ",
-          "btn2": "B. Laguna",
-          "btn3": "C. Davao",
+          "image": "splash",
+          "text": "question2",
+          "btn1": "a1",
+          "btn2": "a2",
+          "btn3": "a3",
           "correct": "B",
-          "trivia": "Ang Davao City ang numero unong producer ng Durian Fruit (Durio kutejensis) sa Pilipinas, kaya hindi mo dapat palampasin ang pagtikim ng durian. Mas mabuti pa, subukan ang masarap na durian pie. Matamis ang pie at parang totoong durian ang lasa. Ang pie ay ginawa mula sa mga sariwang durian pulp na hinaluan ng mga espesyal na sangkap."
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
+          "trivia": "q2"
         }
-{
-          "image": "quiz_bg",
-          "text": "Ang balbakcua na pag-kain ay ________?",
-          "btn1": "A. Baboy ",
-          "btn2": "B. Baka",
-          "btn3": "C. Manok",
-          "correct": "B",
-          "trivia": "Ang pangalan ng ulam na ito na "balbacua" ay nagmula sa salitang Espanyol na "barbacoa" na nangangahulugang pagluluto ng karne nang napakabagal sa isang bukas na apoy sa loob ng ilang oras. Marahil ay pinangalanan ito ng ating mga ninuno na balbacua dahil sa tagal ng panahon sa pagluluto."
-        },
       ]
     }
   ]

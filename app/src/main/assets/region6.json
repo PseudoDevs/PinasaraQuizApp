@@ -4,7 +4,12 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
 		{
           "image": "splash",
@@ -14,7 +19,7 @@
           "btn3": "Dugo ng baboy",
           "correct": "A",
           "trivia": "Nagmula ang lutuing ito sa distrito ng La Paz, Lungsod ng Iloilo."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang chicken inasal ay may sangkap na?",
@@ -22,8 +27,8 @@
           "btn2": "Talong",
           "btn3": "Tanglad",
           "correct": "C",
-          "trivia": "Ang "chicken inasal" ay isang lokal na bersyon ng Filipino barbecue na nagmula sa Lungsod ng Bacolod sa mga isla ng Visayas sa timog ng Pilipinas. Ito ay isang masarap na ulam ng mga bahagi ng manok na inatsara sa mga lokal na halamang gamot at pampalasa."
-        }
+          "trivia": "Ang \"chicken inasal\" ay isang lokal na bersyon ng Filipino barbecue na nagmula sa Lungsod ng Bacolod sa mga isla ng Visayas sa timog ng Pilipinas. Ito ay isang masarap na ulam ng mga bahagi ng manok na inatsara sa mga lokal na halamang gamot at pampalasa."
+        },
 		{
           "image": "splash",
           "text": "Ang inubarang manok ba ay may sangkap na?",
@@ -32,7 +37,7 @@
           "btn3": "Sibuyas",
           "correct": "A",
           "trivia": "Ang Inubarang Manok ay isang signature dish sa Aklan, isang isla sa Visayas"
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang pancit molo ay may sangkap na?",
@@ -41,7 +46,7 @@
           "btn3": "Dulong",
           "correct": "B",
           "trivia": "Nagmula sa bayan ng Molo sa lalawigan ng Iloilo at naiimpluwensyahan ng mga wonton soups na dinala ng malaking komunidad ng mga Chinese settlers sa lugar."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang chicken binakol ay nilalagyan ng?",
@@ -51,18 +56,6 @@
           "correct": "C",
           "trivia": "Ang Binakol ay isang uri ng sabaw na Pilipino na nagmula sa lalawigan ng Aklan. Tradisyunal itong niluluto sa isang sariwang buko ng kawayan o hinahati na bao ng niyog."
         }
-        {
-          "image": "dog",
-          "correct": "dog"
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
-        }
       ]
     }
   ],
@@ -71,7 +64,12 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
 		{
           "image": "splash",
@@ -81,7 +79,7 @@
           "btn3": "Caldereta",
           "correct": "B",
           "trivia": "Ang humba ay isang recipe sa Timog Pilipinas. Inihahalintulad ito sa adobo ngunit hanggang sa pangunahing sangkap lamang."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang utan bisaya ay niluluto ng ilang minuto?",
@@ -90,7 +88,7 @@
           "btn3": "3 minuto",
           "correct": "B",
           "trivia": "Sa ibaba ng Visayas sa Timog Pilipinas, mayroong isang nilagang gulay na ulam na sikat. Tinatawag na utan bisaya, ang vegetable soup na ito ay isang simpleng ulam na nilagyan ng pinong pinakuluang gulay at may lasa ng tinadtad na isda."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang tinu-om binabalot sa dahon ng?",
@@ -99,7 +97,7 @@
           "btn3": "Manga",
           "correct": "B",
           "trivia": "Tinu-om sa katutubong wika ay nangangahulugang “balot”, kaya ang Tinu-om na Manok ay nangangahulugang binalot na manok. Maraming carinderia sa Cabatuan ang sumubok na gumawa din ng Tinu-om, ngunit nabigo sa proseso."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang kansi ay Ilonggo version na pinag-halong?",
@@ -108,7 +106,7 @@
           "btn3": "Bulalo at sinigang",
           "correct": "C",
           "trivia": "Cansi is the Ilonggo version of Bulalo and Sinigang combined. Ito ay isang uri ng sopas ng baka na may maasim na sabaw. Ang mga beef shank ay kadalasang ginagamit sa pagluluto ng ulam na ito.."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Lengua Con Setas y Olivas ay may sangkap na_?",
@@ -118,18 +116,6 @@
           "correct": "A",
           "trivia": "Ang sossy dish ng Ilo-Ilo Lengua Con Setas y Olivas. Isang ilonggo heritage cuisine na inihahain sa mga espesyal na okasyon. Isang Spanish inspired heirloom recipe ng yumaong Francisca Jiz de Ortega Jardeleza. Ang ulam ay hindi karaniwang inihain sa ating HAPAG. Medyo mahal ito at hindi lahat ng restaurant ay may ganitong dish sa kanilang menu."
         }
-        {
-          "image": "dog",
-          "correct": "dog"
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
-        }
       ]
     }
   ],
@@ -138,7 +124,12 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
 		{
           "image": "splash",
@@ -148,7 +139,7 @@
           "btn3": "Kinayod na niyog",
           "correct": "A",
           "trivia": "Baye-baye ay Visayan bersyon ng  espasol at ito ay delicasiya ng Iloilo. Ngunit sa halip na gumamit ng glutinous rice flour, ang delicacy na ito ay gumagamit ng pinipig, isang bagong ani na palay na pinupukpok sa mga natuklap. Pagkatapos ay giniling na maging pulbos saka hinaluan ng buco juice para maging masa."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Pocherong Bisaya ay may laman na?",
@@ -157,7 +148,7 @@
           "btn3": "Baka",
           "correct": "C",
           "trivia": "Ang Pocherong Bisaya ay isang sopas na ulam ng beef leg shanks, mais, saba na saging, bamboo shoots at madahong gulay na niluto sa stock na pinahusay ng luya at tanglad"
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Lumpiang Ubod ng Bisaya ay nilalagyan ng Ubod ng?",
@@ -166,7 +157,7 @@
           "btn3": "Ubod ng kawayan",
           "correct": "A",
           "trivia": "Ang Lumpiang Ubod ay mga sariwang Filipino spring roll na ginawang espesyal na may sautéed palm heart filling, homemade crepe wrappers, at masarap na garlic-peanut sauce. Ang mga ito ay nakabubusog at masarap bilang meryenda sa tanghali o pangunahing ulam."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Binangkal ay naluluto sa pamamagitan ng pag?",
@@ -175,7 +166,7 @@
           "btn3": "Sinasaing",
           "correct": "B",
           "trivia": "Ang Binangkal ay isang uri ng donut mula sa mga isla ng Visayas at Mindanao sa Pilipinas. Ito ay ginawa mula sa piniritong siksik na bola ng kuwarta na pinahiran ng mga buto ng linga. Karaniwan itong kinakain kasama ng mainit na tsokolate o kape."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Sikat na Pizza Pie sa Iloilo na nilagyan ng?",
@@ -184,18 +175,6 @@
           "btn3": "Isdang Inihaw at Pusit",
           "correct": "B",
           "trivia": "Malamang na mahilig sa karne ang mga pizza na nilagyan ng longganiza at bagnet. Kung mas gusto mo ang mga gulay sa iyong pizza, piliin ang Pinakbet Pizza at Poqui-Poqui Pizza, na nilagyan ng mga bisaya ng egg at eggplant dish."
-        }
-        {
-          "image": "dog",
-          "correct": "dog"
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
         }
       ]
     }

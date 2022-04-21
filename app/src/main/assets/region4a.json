@@ -13,8 +13,8 @@
           "btn2": "Patatas",
           "btn3": "Balinghoy",
           "correct": "A",
-          "trivia": "Ang resipe na ito ay nagmula sa lalawigan ng Laguna na kilalang tahanan ng pinakamasarap na "Buko" na pie sa Pilipinas. Ang Buko Pie ay isang pastry na puno ng malambot na mga niyog na tinatawag na "Buko"."
-        }
+          "trivia": "Ang resipe na ito ay nagmula sa lalawigan ng Laguna na kilalang tahanan ng pinakamasarap na \"Buko\" na pie sa Pilipinas. Ang Buko Pie ay isang pastry na puno ng malambot na mga niyog na tinatawag na \"Buko\"."
+        },
 		{
           "image": "splash",
           "text": "Ang Lambanog ay hinango mula sa?",
@@ -23,7 +23,7 @@
           "btn3": "Gatas ng Kalabaw",
           "correct": "B",
           "trivia": "lambanog na karaniwang coconut wine. Ang Lambanog ay ang lokal na rum o whisky, isang distilled na inumin na may nilalamang alkohol na maaaring umabot ng hanggang 50%."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Pansit Habhab ay may mga sangkao na?",
@@ -32,7 +32,7 @@
           "btn3": "Miki noodle,  Gulay, Atay, Karneng Baboy",
           "correct": "C",
           "trivia": "Ang pancit habhab ng Calabarzon ay maaaring kainin nang walang kagamitan. Inihain sa dahon ng saging, itong pinatuyong ulam na pansit na nilagyan ng baboy, atay, at gulay ay maaaring kainin nang diretso mula sa dahon ng saging kung saan ito inihain."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Pinaniki ay ginataan na may lamang?",
@@ -41,7 +41,7 @@
           "btn3": "Atay at Apdo ng Baboy",
           "correct": "B",
           "trivia": "May iba't ibang bersyon ng Bopis sa paligid ng kapuluan ng Pilipinas at ito ang bersyon natin sa Nagcarlan. Ito ay gawa sa iba't ibang offal tulad ng puso at baga at niluto sa gata ng niyog at berdeng sili at paborito ng bayan na ipares sa mga inuming may alkohol."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Adobo sa gatang kalabaw ay niluluto ng ilang oras?",
@@ -50,18 +50,6 @@
           "btn3": "5",
           "correct": "C",
           "trivia": "Ang kalabaw ay niluto ng hindi bababa sa 5 oras gamit ang uling na ginagawa itong malambot at nagbibigay ng usok na lasa sa bawat kagat."
-        }
-        {
-          "image": "dog",
-          "correct": "dog"
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
         }
       ]
     }
@@ -81,7 +69,7 @@
           "btn3": "Harina, Tyokolate, Itlog, asukal",
           "correct": "A",
           "trivia": "Ang Uraró ay tradisyunal na cookies ng Filipino na nagmula sa mga tagalog sa southern Luzon. Ang mga cookies ay tradisyonal na ginawa gamit ang arrowroot flour, duck egg yolks, gatas, rendered mantika, at asukal."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Espasol ay ay may mga sangkap na?",
@@ -90,7 +78,7 @@
           "btn3": "Giniling na Bigas, kinayod na niyog at gata",
           "correct": "C",
           "trivia": "Ang Espasol ay isang malambot, chewy na Filipino rice cake na inihanda na may kumbinasyon ng toasted glutinous rice flour at grated green coconut na dahan-dahang niluluto sa gata ng niyog."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Pichi-pichi qy may sangkap na?",
@@ -99,7 +87,7 @@
           "btn3": "Gabi, keso, niyog, asukal",
           "correct": "B",
           "trivia": "Ang Pichi-pichi ay isang Filipino na dessert na binubuo ng tatlong pangunahing sangkap: grated cassava, asukal, at tubig."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Bulalo ay madalas nilalagyan ng karneng?",
@@ -108,7 +96,7 @@
           "btn3": "Kalabaw",
           "correct": "B",
           "trivia": "Ang Bulalô ay isang tradisyunal na sopas na Filipino na inihanda sa pamamagitan ng pagluluto ng mga beef shank at marrow bones hanggang sa matunaw ang taba at collagen sa sabaw, na nagreresulta sa isang matapang na lasa ng ulam."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Batangas Lomi ay may mga sangkap na?",
@@ -117,18 +105,6 @@
           "btn3": "Miki, Gulay, Kambing, Itlog",
           "correct": "A",
           "trivia": "Iba ang Batangas Lomi sa karaniwang lomi na pwede nating kainin. Ito ay napakakapal na may malapot na pagkakapare-pareho. Ang delicacy na ito ay may laman at itlog at ipinares sa sarsa na gawa sa sili, toyo, at calamansi."
-        }
-        {
-          "image": "dog",
-          "correct": "dog"
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
         }
       ]
     }
@@ -148,7 +124,7 @@
           "btn3": "Calamansi",
           "correct": "B",
           "trivia": "Kung mahilig kang uminom ng maiinit na tsaa, dapat mong subukan ang Salabat de Cuenca. Ang instant ginger tea na ito ay gawa ng PWD (Persons With Disabilities) sa Cuenca, Batangas."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Goto Batangas ay may laman loob at karne ng?",
@@ -157,7 +133,7 @@
           "btn3": "Baka",
           "correct": "C",
           "trivia": "Ang Gotong Batangas ay isang goto na bersyon ng lalawigan ng Batangas. Sinasabing ito ay nagmula sa lungsod ng Lipa, na kilala sa pagkakaroon ng maraming sikat na restaurant na nagdadalubhasa sa iba't ibang lokal na pagkain."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang adobo sa dilaw ay katulad lang din ng orihinal na adobo, ngunit nilalagyan ito ng??",
@@ -166,16 +142,16 @@
           "btn3": "Kalabasa",
           "correct": "A",
           "trivia": "Ang Adobo ay isang sikat na ulam sa Pilipinas — mayroong iba't ibang adobo mula sa iba't ibang lalawigan ng bansa. Gayunpaman, iba ang Adobo ng Batangas. Nagdaragdag ito ng pangunahing sangkap, turmerik."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang sangkap ng Sinaing na Tulingan ay?",
           "btn1": "Tulingan, Kalamansi, Suka",
-          "btn2": Tulingan, Kamias",
+          "btn2": "Tulingan, Kamias",
           "btn3": "Tulingan, Suya, Luya",
           "correct": "B",
           "trivia": "-Isa pang Batangueno na madaling lutuin ay ang sinaing na tulingan. Ang Tulingan ay isang maliit na isda, kabilang sa pamilya ng tuna, na maaaring hulihin sa Balayan Bay."
-        }
+        },
 		{
           "image": "splash",
           "text": "Ang Tapang Taal ay mula sa tapa ng?",
@@ -184,18 +160,6 @@
           "btn3": "Baboy",
           "correct": "C",
           "trivia": "Ang Tapang Taal ay isang Filipino recipe na inihanda gamit ang baboy na inatsara sa toyo, kalamansi at toneladang bawang pagkatapos ay pinirito."
-        }
-        {
-          "image": "dog",
-          "correct": "dog"
-        },
-        {
-          "image": "duck",
-          "correct": "duck"
-        },
-        {
-          "image": "fish",
-          "correct": "fish"
         }
       ]
     }

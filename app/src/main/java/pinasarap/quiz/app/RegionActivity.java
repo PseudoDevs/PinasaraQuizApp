@@ -1,21 +1,41 @@
 package pinasarap.quiz.app;
 
 import android.content.Intent;
+import android.media.Image;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.ImageView;
+import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 public class RegionActivity extends AppCompatActivity {
     MediaPlayer mediaPlayer;
+    TextView textView2;
+    ImageView imageView6;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.regions);
         mediaPlayer = MediaPlayer.create(this,R.raw.touch_music);
+        textView2 = (TextView) findViewById(R.id.textView2);
+        imageView6 = (ImageView)findViewById(R.id.imageView6);
+        textView2.setText("Points : "+MainActivity.prefs.getInt("star",0));
+        imageView6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(RegionActivity.this,MainActivity.class);
+                startActivity(intent);
+            }
+        });
+    }
+
+    @Override
+    public void onBackPressed() {
+//        super.onBackPressed();
     }
 
     public void region(View v){
@@ -38,11 +58,17 @@ public class RegionActivity extends AppCompatActivity {
                 mediaPlayer.start();
                 startActivity(Region3);
                 break;
-            case R.id.region4:
-                MainActivity.editor.putString("regionSelected","region4.json").commit();
-                Intent Region4 = new Intent(RegionActivity.this,levelActivity.class);
+            case R.id.region4a:
+                MainActivity.editor.putString("regionSelected","region4a.json").commit();
+                Intent Region4a = new Intent(RegionActivity.this,levelActivity.class);
                 mediaPlayer.start();
-                startActivity(Region4);
+                startActivity(Region4a);
+                break;
+            case R.id.region4b:
+                MainActivity.editor.putString("regionSelected","region4b.json").commit();
+                Intent Region4b = new Intent(RegionActivity.this,levelActivity.class);
+                mediaPlayer.start();
+                startActivity(Region4b);
                 break;
             case R.id.region5:
                 MainActivity.editor.putString("regionSelected","region5.json").commit();

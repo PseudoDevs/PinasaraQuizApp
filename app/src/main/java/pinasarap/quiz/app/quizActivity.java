@@ -34,9 +34,12 @@ public class quizActivity extends AppCompatActivity {
     ImageView questionImage;
     TextView questionText;
     Button ans1,ans2,ans3;
+    ImageView imageView6;
 
     int score = 0;
     MediaPlayer correctMediaPlayer,wrongMediaPlayer;
+    TextView textView2;
+    int star;
 
 
     @Override
@@ -44,6 +47,15 @@ public class quizActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.quiz);
         InitializeUI();
+        textView2.setText("Points : "+MainActivity.prefs.getInt("star",0));
+        star = MainActivity.prefs.getInt("star",0);
+        imageView6.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent =new Intent(quizActivity.this,levelActivity.class);
+                startActivity(intent);
+            }
+        });
 
             loadAllQuestions(MainActivity.prefs.getString("levelSelected",null),MainActivity.prefs.getString("regionSelected",null));
         setQuestion(currentLevel);
@@ -60,12 +72,19 @@ public class quizActivity extends AppCompatActivity {
         ans3.setText(questionItems.get(number).getAns3());
     }
 
+    @Override
+    public void onBackPressed() {
+//        super.onBackPressed();
+    }
 
     public void answer(View v){
         switch (v.getId()) {
             case R.id.ans1:
                 if(questionItems.get(currentLevel).getCorrect().equals("A")){
                     score++;
+                    star++;
+                    MainActivity.editor.putInt("star",star).commit();
+                    textView2.setText("Points : "+star);
                     correctMediaPlayer.start();
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans1.getText().toString());
@@ -78,6 +97,9 @@ public class quizActivity extends AppCompatActivity {
             case R.id.ans2:
                 if(questionItems.get(currentLevel).getCorrect().equals("B")){
                     score++;
+                    star++;
+                    MainActivity.editor.putInt("star",star).commit();
+                    textView2.setText("Points : "+star);
                     correctMediaPlayer.start();
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans2.getText().toString());
@@ -90,6 +112,9 @@ public class quizActivity extends AppCompatActivity {
             case R.id.ans3:
                 if(questionItems.get(currentLevel).getCorrect().equals("C")){
                     score++;
+                    star++;
+                    MainActivity.editor.putInt("star",star).commit();
+                    textView2.setText("Points : "+star);
                     correctMediaPlayer.start();
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans3.getText().toString());
@@ -260,6 +285,8 @@ public class quizActivity extends AppCompatActivity {
         ans1 = (Button) findViewById(R.id.ans1);
         ans2 = (Button) findViewById(R.id.ans2);
         ans3 = (Button) findViewById(R.id.ans3);
+        textView2 =(TextView)findViewById(R.id.textView2);
+        imageView6 =(ImageView)findViewById(R.id.imageView6);
         correctMediaPlayer = MediaPlayer.create(this,R.raw.correct_music);
         wrongMediaPlayer = MediaPlayer.create(this,R.raw.wrong_music);
     }

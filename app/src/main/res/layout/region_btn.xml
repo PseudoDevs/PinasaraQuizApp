@@ -26,11 +26,18 @@
         android:text="Region 3"
         android:onClick="region"/>
     <Button
-        android:id="@+id/region4"
+        android:id="@+id/region4a"
         android:backgroundTint="@color/splash_button_dark_2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Region 4"
+        android:text="Region 4A"
+        android:onClick="region"/>
+    <Button
+        android:id="@+id/region4b"
+        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Region 4B"
         android:onClick="region"/>
     <Button
         android:id="@+id/region5"

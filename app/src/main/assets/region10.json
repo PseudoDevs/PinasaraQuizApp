@@ -11,23 +11,55 @@
           "correct": "// wag alisin",
           "trivia": "// wag alisin"
         },
-        {
+{
           "image": "quiz_bg",
-          "text": "question1",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
+          "text": "Ang binaki ay madalas na street food sa lugar ng_____?",
+          "btn1": "A. Western Visayas",
+          "btn2": "B. Mindanao",
+          "btn3": "C. Northern Mindanao",
+          "correct": "C",
+          "trivia": "Ang binaki o steamed corn tamales ay gawa sa gatas, mantikilya, asukal, at itlog. Ang Sweet Corn Binaki ay natural na matamis, mabango at sariwa mula sa bukid hanggang sa mesa."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang pigok na isda ay ay hinahaluan ng paasim na_____?",
+          "btn1": "A. Calamansi",
+          "btn2": "B. Kamias",
+          "btn3": "C. Kamatis",
           "correct": "A",
-          "trivia": "q1"
+          "trivia": "Pinangat na Isda is a Filipino Fish dish. Mayroong dalawang sikat na bersyon ng Pinangat: ang maasim na bersyon gamit ang bilimbi (kamias); at ang Bicol version na may gata. Ang recipe na ito ay ang maasim na bersyon. Pinangat na Isda is one of the simple Filipino Food that I like eating."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang sinuklaw ay sangkap na karne ng____?",
+          "btn1": "A. Kalabaw",
+          "btn2": "B. Baka",
+          "btn3": "C. Baboy",
+          "correct": "A",
+          "trivia": "Ang Sinuglaw ay isang ulam na binubuo ng inihaw na tiyan ng baboy at isda na ceviche. Ito ay maaaring ituring bilang pangunahing ulam o pampagana."
         },
         {
-          "image": "splash",
-          "text": "question2",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
+
+          "image": "duck",
+          "correct": "duck"
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang kinilaw ay mayroong pinaka sangkap na laman ng_____?",
+          "btn1": "A. Manok",
+          "btn2": "B. Isda",
+          "btn3": "C. Baboy",
+          "correct": "A",
+          "trivia": "Ang kinilaw ay simpleng gawin at karaniwang inihahain para sa mga kaswal na pagtitipon. Ito ay isang sikat na \"pulutan\" o isang pagkain na inihain sa isang kaswal na sesyon ng pag-inom. Gayunpaman, gumagawa din ito ng isang mahusay na pampagana."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang sikwate ay isang uri ng____?",
+          "btn1": "A. Kape",
+          "btn2": "B. Chocolate",
+          "btn3": "C. Tsa’a",
           "correct": "B",
-          "trivia": "q2"
+          "trivia": "Ang Cebuano na bersyon ng mainit na tsokolate, sikwate ay ang pinakamalapit na makukuha mo sa pag-inom ng purong, hilaw na tsokolate. Nagsisimula ito sa tableya de cacao na gawa sa cacao beans na pinatuyo, inihaw, giniling, at pagkatapos ay ginawang mga tableta."
         }
       ]
     }
@@ -44,23 +76,50 @@
           "correct": "// wag alisin",
           "trivia": "// wag alisin"
         },
-        {
+{
           "image": "quiz_bg",
-          "text": "question1",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
-          "correct": "A",
-          "trivia": "q1"
+          "text": "Ang pastil ay native delicacy sa lalawigan ng_____?",
+          "btn1": "A. Luzon",
+          "btn2": "B. Visayas",
+          "btn3": "C. Mindanao",
+          "correct": "C",
+          "trivia": "Ang pastil ay isang budget saver na pagkain na makikita kahit saan sa puso ng mindanao. Karaniwan itong inihain sa nakabalot na dahon ng saging ngunit maaari mo ring ihain sa mga rice bowl."
         },
-        {
-          "image": "splash",
-          "text": "question2",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
+{
+          "image": "quiz_bg",
+          "text": "Ang binakle ay hinahaluan ng dahoon ng_____?",
+          "btn1": "A. Bayabas",
+          "btn2": "B. Malunggay",
+          "btn3": "C. Saging",
+          "correct": "C",
+          "trivia": "Ang Binakle ay isang rice cake na gawa sa dinikdik na malagkit na bigas na \"dayakkot\" na may linga na nakabalot sa dahon ng saging. Ito ay tradisyonal na inihahanda sa isang komunal na ritwal."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang puto maya ay may sangkap na____?",
+          "btn1": "A. Gatas ng baka",
+          "btn2": "B. Gata ng niyog",
+          "btn3": "C. Gatas ng kambing",
+          "correct": "A",
+          "trivia": "Ang Puto Maya ay isang uri ng malagkit na rice cake na nagmula sa Cebu. Ito ay gawa sa steamed glutinous rice, fresh ginger juice, at sweetened coconut milk. Karaniwan itong inihahain na nakabalot sa mga dahon ng saging na may tatsulok o bilog na hugis na may mga hiwa ng makatas na hinog na mangga sa gilid."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang pagkaing ito ay may sangkap o gawa sa_____?",
+          "btn1": "A. beans",
+          "btn2": "B. Peanut",
+          "btn3": "C. Bigas",
           "correct": "B",
-          "trivia": "q2"
+          "trivia": "Ang Turones de mani ay isang dessert ng dinurog na mani na nakabalot sa egg crepe wrapper mula sa Pilipinas. A. K. A. turon de mani, peanut turon, o peanut lumpia."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang halang-halang ay madalas ginagawa sa karne ng____?",
+          "btn1": "A. Manok",
+          "btn2": "B. Baboy",
+          "btn3": "C. Baka",
+          "correct": "A",
+          "trivia": "Ang Chicken Hinalang ay isang maanghang na sopas ng manok na sikat sa katimugang bahagi ng Pilipinas. Ito ay medyo katulad ng tinola sa unang tingin, ngunit ang ilang mga sangkap ay ginagawang kakaiba na nagbibigay sa ulam na ito ng sariling pagkakakilanlan."
         }
       ]
     }
@@ -77,23 +136,50 @@
           "correct": "// wag alisin",
           "trivia": "// wag alisin"
         },
-        {
+{
           "image": "quiz_bg",
-          "text": "question1",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
+          "text": "Ang tiyula itum ay orihinal na nag mula sa lugar ng_____?",
+          "btn1": "A. Sulu",
+          "btn2": "B. Cebu",
+          "btn3": "C. Siargao",
           "correct": "A",
-          "trivia": "q1"
+          "trivia": "Ang Tiyula Itum ay isang Filipino beef soup na inihanda gamit ang mga piraso ng karne ng baka o kambing na niluto gamit ang tanglad, luya, turmerik at charred coconut meat."
         },
-        {
-          "image": "splash",
-          "text": "question2",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
+{
+          "image": "quiz_bg",
+          "text": "Ngo – hiong o madalas na tawagin sa atin na_____?",
+          "btn1": "A. Lumpia",
+          "btn2": "B. Siomai",
+          "btn3": "C. Siopao",
+          "correct": "A",
+          "trivia": "Ang Ngohiong ay isang piniritong piniritong rice-paper roll na puno ng jicama, ubod, tinadtad na baboy, tinadtad na hipon, bawang at sibuyas na tinimplahan ng limang spice powder."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang ensaymada de buko ay may palaman sa loob na____?",
+          "btn1": "A. Keso",
+          "btn2": "B. Coconut paste",
+          "btn3": "C. Kondensada",
           "correct": "B",
-          "trivia": "q2"
+          "trivia": "Ang Ensaymada ay isang Filipino sweet pastry. Ito ay sinasabing pagkakaiba-iba ng Ensaimades, isang katulad na tinapay na gumagamit ng mantika ng baboy bilang isang sangkap na nagmula sa Majorca."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang  kamote ay isang prutas na matatagapuan sa____?",
+          "btn1": "A. Puno",
+          "btn2": "B. Ilalim ng lupa",
+          "btn3": "C. Sa bagin",
+          "correct": "B",
+          "trivia": "Ang Camote Delight ay napakasarap at napakagandang disyerto sa Pilipinas at napakadaling gawin. Ang simpleng recipe ng Camote Delight ay gagabay sa iyo hakbang-hakbang upang ipakita sa iyo kung paano gumawa ng Camote Delight. Ito ang pinakamahusay na recipe ng Camote Delight na available sa internet at sundin ito makakakuha ka ng pinakamasarap na Camote Delight na mayroon ka."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang piyareng udang ay may sangkap na _____?",
+          "btn1": "A. Isda ",
+          "btn2": "B. Hipon",
+          "btn3": "C. Manok",
+          "correct": "B",
+          "trivia": "Piyareng Udang - o hipon na niluto sa pulot-pukyutan na may lasa ng iba't ibang pampalasa, tulad ng maanghang na sili."
         }
       ]
     }

@@ -134,27 +134,27 @@
 		{
           "image": "splash",
           "text": "Ang Bibingkang kanin ay may mga sangkap na?Ang Bringhe Kapampangan ay may sangkap na?",
-          "btn1": "Malagkit, baboy, at gatas ng baka",
-          "btn2": "Bigas, Chicken Fillet, Gata ng niyog",
-          "btn3": "Bigas, Baboy, Gatas ng baka",
+          "btn1": "A. Malagkit, baboy, at gatas ng baka",
+          "btn2": "B. Bigas, Chicken Fillet, Gata ng niyog",
+          "btn3": "C. Bigas, Baboy, Gatas ng baka",
           "correct": "B",
           "trivia": "Ang Bringhe ay isang Filipino na bersyon ng paella at partikular na ito ay isang Kapampangan paella dahil ang brighe o bringhi ay isang Kapampangan na salita."
         },
 		{
           "image": "splash",
           "text": "Ang Turrunes de Casoy ay gawa sa?",
-          "btn1": "Tyokolate, Asukal at Kasoy",
-          "btn2": "Keso, asukal, Kasoy",
-          "btn3": "Pulot, Asukal, Itlog, at Kasoy",
+          "btn1": "A. Tyokolate, Asukal at Kasoy",
+          "btn2": "B. Keso, asukal, Kasoy",
+          "btn3": "C. Pulot, Asukal, Itlog, at Kasoy",
           "correct": "C",
           "trivia": "Ang Turrones de Casoy ay isang matamis na pagkain na nakabalot sa papel na ostiya na chewy at malutong bawat kagat! Ginawa mula sa pulot, asukal, itlog at kasoy na mainam bilang meryenda o dessert."
         },
 		{
           "image": "splash",
           "text": "Ang Burong Kapampangan ay madalas nilalagyan ng?",
-          "btn1": "Sitaw, Bataw at patani",
-          "btn2": "Kalabasa, malunggay, Kamote",
-          "btn3": "Talong, Okra at Ampalaya",
+          "btn1": "A. Sitaw, Bataw at patani",
+          "btn2": "B. Kalabasa, malunggay, Kamote",
+          "btn3": "C. Talong, Okra at Ampalaya",
           "correct": "C",
           "trivia": "Isa itong sawsawan na gawa sa fermented rice at freshwater fish (tulad ng mud fish, hito, tilapia) o hipon. Ito ay pinakamahusay na pinagsama sa inihaw, inihaw o pritong isda, sariwang mustasa at singaw o pinakuluang gulay tulad ng okra, talong, at ampalaya."
         },

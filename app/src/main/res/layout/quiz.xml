@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/quiz_bg"
+    android:background="@drawable/quiz_bg_2"
     android:orientation="vertical">
 
     <LinearLayout
@@ -68,6 +68,7 @@
         android:id="@+id/questionImage"
         android:layout_width="250dp"
         android:layout_height="250dp"
+        android:layout_marginTop="50dp"
         tools:srcCompat="@tools:sample/avatars" />
 
     <TextView
@@ -75,31 +76,34 @@
         android:layout_width="257dp"
         android:layout_height="wrap_content"
         android:textStyle="bold"
+
         android:textAlignment="center"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
         android:text="1. Anong pansit ang ginagamit sa Pansit Batil Patung?"/>
 
 
     <Button
         android:id="@+id/ans1"
-        android:layout_width="263dp"
-        android:layout_height="53dp"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/region_twelve"
         android:onClick="answer"
         android:text="Button"/>
 
     <Button
         android:id="@+id/ans2"
-        android:layout_width="263dp"
-        android:layout_height="53dp"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/region_three"
         android:text="Button"
         android:onClick="answer"/>
 
     <Button
         android:id="@+id/ans3"
-        android:layout_width="263dp"
-        android:layout_height="53dp"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/region_five"
         android:onClick="answer"
         android:text="Button"/>
 

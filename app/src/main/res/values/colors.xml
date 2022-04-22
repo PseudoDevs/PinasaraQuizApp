@@ -11,4 +11,21 @@
     <color name="splash_button">#1dd1a1</color>
     <color name="splash_button_dark">#10ac84</color>
     <color name="splash_button_dark_2">#16a085</color>
+    <color name="hard_color">#F44336</color>
+    <color name="easy_color">#2196F3</color>
+    <color name="medium_color">#FF9800</color>
+    <color name="region_one">#00BCD4</color>
+    <color name="region_two">#F44336</color>
+    <color name="region_three">#673AB7</color>
+    <color name="region_four">#2196F3</color>
+    <color name="region_five">#03A9F4</color>
+    <color name="region_six">#009688</color>
+    <color name="region_seven">#4CAF50</color>
+    <color name="region_eight">#8BC34A</color>
+    <color name="region_nine">#FFEB3B</color>
+    <color name="region_ten">#FFC107</color>
+    <color name="region_eleven">#FF9800</color>
+    <color name="region_twelve">#FF5722</color>
+    <color name="region_thirteen">#0021C8</color>
+    <color name="back_color">#0021C8</color>
 </resources>

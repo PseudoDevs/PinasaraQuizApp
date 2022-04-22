@@ -57,7 +57,7 @@ public class quizActivity extends AppCompatActivity {
             }
         });
 
-            loadAllQuestions(MainActivity.prefs.getString("levelSelected",null),MainActivity.prefs.getString("regionSelected",null));
+        loadAllQuestions(MainActivity.prefs.getString("levelSelected",null),MainActivity.prefs.getString("regionSelected",null));
         setQuestion(currentLevel);
 
     }

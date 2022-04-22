@@ -11,23 +11,51 @@
           "correct": "// wag alisin",
           "trivia": "// wag alisin"
         },
-        {
+{
           "image": "quiz_bg",
-          "text": "question1",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
-          "correct": "A",
-          "trivia": "q1"
-        },
-        {
-          "image": "splash",
-          "text": "question2",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
+          "text": "Ang alisuso ay gawa sa_____?",
+          "btn1": "A. Suso",
+          "btn2": "B. buko",
+          "btn3": "C. Kamote",
           "correct": "B",
-          "trivia": "q2"
+          "trivia": "isang tradisyonal na Filipino steamed rice cake mula sa Surigao del Norte at iba pang lugar ng Caraga Region ng hilagang-kanlurang Mindanao, gayundin sa timog-silangang Visayas (Bohol, Samar, Leyte) kung saan ito ay kilala bilang sarungsong o alisuso. ng iba pang lokal na pampalasa. Ang mga ito ay masarap na may maanghang na kagat. Bilang mahilig sa sausage, nasiyahan kami sa mga lasa sa kakaibang pagkaing Vigan na ito."
+        },
+ {
+          "image": "quiz_bg",
+          "text": "Ang putahe na ito ay gawa sa karne ng______?",
+          "btn1": "A. Baboy",
+          "btn2": "B. Kalabaw",
+          "btn3": "C. Baka",
+          "correct": "C",
+          "trivia": "Nagmula ang Lomo Guisado sa Visayas kung saan ginagamit nila ang karne ng kalabaw sa halip na karne ng baka at kung minsan, sariwang dugo ang idadagdag sa sabaw. ng iba pang lokal na pampalasa. Ang mga ito ay masarap na may maanghang na kagat. Bilang mahilig sa sausage, nasiyahan kami sa mga lasa sa kakaibang pagkaing Vigan na ito."
+        },
+ {
+          "image": "quiz_bg",
+          "text": "Ang bagol ay tinatawag din sa salita na_____?",
+          "btn1": "A. Buko",
+          "btn2": "B. Bao",
+          "btn3": "C. Kayakas",
+          "correct": "B",
+          "trivia": "Ang Binagol ay isang Filipino sweet steamed delicacy na gawa sa mashed giant taro corm, condensed milk, asukal, gata ng niyog, at mga pula ng itlog."
+        },
+
+ {
+          "image": "quiz_bg",
+          "text": "Ang lasa ng papaya pickles ay_____?",
+          "btn1": "A. Maalat",
+          "btn2": "B. Mapakla",
+          "btn3": "C. Maasim",
+          "correct": "C",
+          "trivia": "kilala rin bilang atsara o achara, ay isang kilalang adobo na pampalasa sa Pilipinas na gawa sa hilaw, berdeng papaya. Ito ay orihinal na naiimpluwensyahan ng mga atsara ng India, achar, na nagmula sa impluwensya ng Malay, acar isa pang uri ng adobo na pampalasa mula sa Malaysia, Indonesia, at Brunei."
+	  },
+{
+          "image": "quiz_bg",
+          "text": "Ang salitang pinato hinango sa isang_____?",
+          "btn1": "A. Apilyedo",
+          "btn2": "B. Pangalan",
+          "btn3": "C. Palayaw",
+          "correct": "A",
+          "trivia": "Ang Piñato ay isang sikat na recipe ng Samar. Ang mga sangkap nito ay ordinaryong bigas, malagkit, asukal, anis, ganta popped rice, ganta roasten peanuts, sesame seeds at mantika."
         }
       ]
     }
@@ -44,23 +72,50 @@
           "correct": "// wag alisin",
           "trivia": "// wag alisin"
         },
-        {
+{
           "image": "quiz_bg",
-          "text": "question1",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
-          "correct": "A",
-          "trivia": "q1"
+          "text": "Ang pagkain na moron ay may sangkap na______?",
+          "btn1": "A. Kamote",
+          "btn2": "B. Patatas",
+          "btn3": "C. Kakaw",
+          "correct": "C",
+          "trivia": "Ang Suman Moron ay isang mas makinis na uri ng suman. Ang chocolate moron na ito na binubuo ng giniling na malagkit na bigas na kilala rin bilang \"malagkit\" ay niluluto sa gata ng niyog. Ang moron ay maaaring ihalo o simpleng testosterone enanthate online na may kakaw o tsokolate."
         },
-        {
-          "image": "splash",
-          "text": "question2",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
+{
+          "image": "quiz_bg",
+          "text": "ang atsarang labanos ay binababad sa___________?",
+          "btn1": "A. Toyo",
+          "btn2": "B. Suka",
+          "btn3": "C. Patis",
           "correct": "B",
-          "trivia": "q2"
+          "trivia": "Ang Atcharang labanos ay isang katawagang Filipino na ginagamit para ilarawan ang Adobong Daikon Radish."
+        },
+{
+          "image": "quiz_bg",
+          "text": "ang bukayo ay may sangkap na________?",
+          "btn1": "A. Sesame seed",
+          "btn2": "B. Brown sugar",
+          "btn3": "C. Lahat ng sagot",
+          "correct": "C",
+          "trivia": "Ang Bukayo Recipe ay isang Filipino na bersyon ng coconut candy, at ito ay binubuo ng mga piraso ng mature Buko meat (coconut meat) at dark brown sugar."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang pastillas ay gawa sa______?",
+          "btn1": "A. Gatas",
+          "btn2": "B. Pulbos",
+          "btn3": "C. De lata",
+          "correct": "B",
+          "trivia": "Ang pastillas de leche ay mga matamis na kendi ng gatas na karaniwang inihahain para sa panghimagas."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang tinapa ay panatututyo sa hangin ng ilang oras?",
+          "btn1": "A. 2 hanggan 3",
+          "btn2": "B. 4 hanggag 5",
+          "btn3": "C. 5 hanggan 6",
+          "correct": "C",
+          "trivia": "Pangunahing kinasasangkutan ng recipe ng Tinapa ang proseso ng paghuhugas ng isda at paglalagay nito sa brine sa loob ng mahabang panahon (karaniwan ay 5 – 6 na oras), pagpapatuyo ng hangin, at sa wakas ay paninigarilyo ang mga isda."
         }
       ]
     }
@@ -77,23 +132,50 @@
           "correct": "// wag alisin",
           "trivia": "// wag alisin"
         },
-        {
+{
           "image": "quiz_bg",
-          "text": "question1",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
+          "text": "Ang sagmani ay may sangkap na______?",
+          "btn1": "A. Gata",
+          "btn2": "B. Gatas",
+          "btn3": "C. Tsokolate",
           "correct": "A",
-          "trivia": "q1"
+          "trivia": "ang sagmani ay niluto mula sa alinman sa kamoteng kahoy, kamote, gabi o pinaghalong anuman. Ang tradisyonal na gata o gata ng niyog ay ang Visayan ambrosia na kumukumpleto sa pagkaing ito. Pagkatapos ay idinagdag ito ng asukal, karne ng niyog, at mga mani na isa sa mga pangunahing sangkap ng delicacy. Kaya naman, ang terminong sagmani ay nagmula sa mani, ang salitang Waray para sa mga mani o mani."
         },
-        {
-          "image": "splash",
-          "text": "question2",
-          "btn1": "a1",
-          "btn2": "a2",
-          "btn3": "a3",
-          "correct": "B",
-          "trivia": "q2"
+{
+          "image": "quiz_bg",
+          "text": "Ang sumang latik ay may saw-sawan na______?",
+          "btn1": "A. Maiinit na tsokolate",
+          "btn2": "B. Gatas",
+          "btn3": "C. Kape",
+          "correct": "A",
+          "trivia": "Ang isa pang bersyon ng rice cake ay ang suman malagkit na gawa sa malagkit na bigas, gata ng niyog, brown sugar at nilagyan ng lye solution, na ginagawang kakaiba ang lasa. Nakabalot din sa dahon ng saging, ang dessert na ito ay inihahain na may kasamang \"latik\" na sarsa sa ibabaw at pinakamainam na tangkilikin kasama ng kape o mainit na tsokolate."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang pastillas ay gawa sa______?",
+          "btn1": "A. Buko",
+          "btn2": "B. Langka",
+          "btn3": "C. papaya",
+          "correct": "A",
+          "trivia": "Pagkatapos ng pagsasaliksik, nalaman namin na ang coconut wine na ito ay karaniwan sa ilang bansa. Sa Pilipinas ito ay tinatawag na Tuba, sa India ay kilala bilang Toddy, sa Indonesia ay Tuak, sa Angola ay Manjenvo at iba pa..."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang pastillas ay gawa sa______?",
+          "btn1": "A. Gatas",
+          "btn2": "B. Moringa",
+          "btn3": "C. Lahat ng sagot",
+          "correct": "C",
+          "trivia": "Kinunot ay pilipino recipe na may natuklap na stingray, dahon ng moringa at sili na niluto sa spiced coconut cream sauce."
+        },
+{
+          "image": "quiz_bg",
+          "text": "Ang roscas ay nag mula sa _____?",
+          "btn1": "A. Leyte",
+          "btn2": "B. Batangas",
+          "btn3": "C. Ilo ilo",
+          "correct": "A",
+          "trivia": "Ang Roscas ay halos katulad ng fortune cookie, mahirap kumagat. Ang delicacy na ito ay nagmula sa Barugo, Leyte. Ito ay gawa sa harina, asukal, itlog, anis at mantika. Ang mga cookies na ito ay may iba't ibang lasa dahil sa \"Anis\" na idinagdag sa mga sangkap at ang gatas na ginamit ay mula sa gatas ng kalabaw."
         }
       ]
     }

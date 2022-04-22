@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:padding="20dp"
     android:gravity="center">
 
     <TextView
@@ -33,6 +34,8 @@
         android:text="A. Hello World"
         android:textStyle="bold"
         android:textSize="20sp"
+        android:layout_marginBottom="20dp"
+
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
@@ -43,7 +46,7 @@
         android:layout_width="238dp"
         android:layout_height="48dp"
         android:text="GO TO TRIVIA"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_three"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="536dp" />
@@ -52,8 +55,9 @@
         android:id="@+id/button9"
         android:layout_width="238dp"
         android:layout_height="48dp"
+
         android:text="SKIP TRIVIA"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_four"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="536dp" />

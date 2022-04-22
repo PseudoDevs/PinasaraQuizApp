@@ -2,46 +2,48 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    >
 
     <Button
         android:id="@+id/region1"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_one"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 1"
         android:onClick="region"/>
     <Button
         android:id="@+id/region2"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_two"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 2"
         android:onClick="region"/>
     <Button
         android:id="@+id/region3"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_three"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 3"
         android:onClick="region"/>
     <Button
         android:id="@+id/region4a"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_four"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 4A"
         android:onClick="region"/>
     <Button
         android:id="@+id/region4b"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_five"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 4B"
         android:onClick="region"/>
     <Button
         android:id="@+id/region5"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_six"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 5"
@@ -49,7 +51,7 @@
 
     <Button
         android:id="@+id/region6"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_seven"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 6"
@@ -57,7 +59,7 @@
 
     <Button
         android:id="@+id/region7"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_eight"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 7"
@@ -65,7 +67,7 @@
 
     <Button
         android:id="@+id/region8"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_nine"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 8"
@@ -73,7 +75,7 @@
 
     <Button
         android:id="@+id/region9"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_ten"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 9"
@@ -81,7 +83,7 @@
 
     <Button
         android:id="@+id/region10"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_eleven"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 10"
@@ -89,14 +91,14 @@
 
     <Button
         android:id="@+id/region11"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_twelve"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 11"
         android:onClick="region"/>
     <Button
         android:id="@+id/region12"
-        android:backgroundTint="@color/splash_button_dark_2"
+        android:backgroundTint="@color/region_thirteen"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Region 12"

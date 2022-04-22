@@ -114,7 +114,12 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
 		{
           "image": "splash",
@@ -146,9 +151,9 @@
 		{
           "image": "splash",
           "text": "Ang Sampilok ay gawa sa??",
-          "btn1": "Cocoa",
-          "btn2": "Keso",
-          "btn3": "Gatang Niyog",
+          "btn1": "A. Cocoa",
+          "btn2": "B. Keso",
+          "btn3": "C. Gatang Niyog",
           "correct": "C",
           "trivia": "Ang Sapililok ay simpleng bersyon ng syrup ng panutsa, na ginawa sa pamamagitan ng pagluluto ng asukal sa niyog sa gata ng niyog o gata. Ang sapililok ay kadalasang ginagamit bilang pansawsaw ng suman o tininta suman sa Marinduque."
         },

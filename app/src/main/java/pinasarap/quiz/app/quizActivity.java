@@ -40,6 +40,8 @@ public class quizActivity extends AppCompatActivity {
     MediaPlayer correctMediaPlayer,wrongMediaPlayer;
     TextView textView2;
     int star;
+    ImageView startLife1,startLife2,startLife3;
+    int starLife = 3;
 
 
     @Override
@@ -47,6 +49,7 @@ public class quizActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.quiz);
         InitializeUI();
+        MainActivity.editor.putInt("score",0).commit();
         textView2.setText("Points : "+MainActivity.prefs.getInt("star",0));
         star = MainActivity.prefs.getInt("star",0);
         imageView6.setOnClickListener(new View.OnClickListener() {
@@ -89,8 +92,10 @@ public class quizActivity extends AppCompatActivity {
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans1.getText().toString());
                 }else{
+                    starLifes();
                     wrongMediaPlayer.start();
                     wrongAnswer(fAnswer());
+
                 }
                 MainActivity.editor.putString("getTrivia",questionItems.get(currentLevel).getTrivia());
                 break;
@@ -104,6 +109,7 @@ public class quizActivity extends AppCompatActivity {
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans2.getText().toString());
                 }else{
+                    starLifes();
                     wrongMediaPlayer.start();
                     wrongAnswer(fAnswer());
                 }
@@ -119,10 +125,30 @@ public class quizActivity extends AppCompatActivity {
                     MainActivity.editor.putInt("score",score).commit();
                     checkAnswer(ans3.getText().toString());
                 }else{
+                    starLifes();
                     wrongMediaPlayer.start();
                     wrongAnswer(fAnswer());
                 }
                 break;
+        }
+    }
+
+    public void starLifes(){
+        starLife--;
+        if(starLife == 2){
+            startLife1.setVisibility(View.VISIBLE);
+            startLife2.setVisibility(View.VISIBLE);
+            startLife3.setVisibility(View.GONE);
+        }else if(starLife == 1){
+            startLife1.setVisibility(View.VISIBLE);
+            startLife2.setVisibility(View.GONE);
+            startLife3.setVisibility(View.GONE);
+        }else if(starLife == 0){
+            startLife1.setVisibility(View.GONE);
+            startLife2.setVisibility(View.GONE);
+            startLife3.setVisibility(View.GONE);
+            Intent intent = new Intent(quizActivity.this,RegionComplete.class);
+            startActivity(intent);
         }
     }
 
@@ -285,6 +311,9 @@ public class quizActivity extends AppCompatActivity {
         ans1 = (Button) findViewById(R.id.ans1);
         ans2 = (Button) findViewById(R.id.ans2);
         ans3 = (Button) findViewById(R.id.ans3);
+        startLife1 =(ImageView)findViewById(R.id.star_life1);
+        startLife2 =(ImageView)findViewById(R.id.star_life2);
+        startLife3 =(ImageView)findViewById(R.id.star_life3);
         textView2 =(TextView)findViewById(R.id.textView2);
         imageView6 =(ImageView)findViewById(R.id.imageView6);
         correctMediaPlayer = MediaPlayer.create(this,R.raw.correct_music);

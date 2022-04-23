@@ -1,0 +1,182 @@
+﻿{
+  "Easy": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "quiz_bg",
+          "text": "1.Ang Risotto with Chicken ay hinahaluan ng hebi o ",
+          "btn1": "A.dried fish",
+          "btn2": "B.dried shrimp",
+          "btn3": "C.dried pork",
+          "correct": "B",
+          "trivia": "Ang Risotto ay isang sikat na ulam sa mga restaurant sa buong mundo. Ginagawa ito sa pamamagitan ng pagsasama-sama ng kanin at sabaw upang lumikha ng creamy, masarap na pagkain. Ang risotto ay kadalasang inihahain bilang kumpletong pagkain, ngunit maaari ding maging side dish para sa mga pangunahing pagkain ng karne. Sa ilang simpleng hakbang, matututunan mo kung paano gumawa ng risotto sa oras para sa hapunan."
+        },
+        {
+          "image": "splash",
+          "text": "2.  Ang Abra Miki ay hinahaluan ng?",
+          "btn1": "A.Bihon",
+          "btn2": "B.Canton",
+          "btn3": "C. Miki",
+          "correct": "C",
+          "trivia": "Abra Miki isang uri ng pansit na sopas na inihanda gamit ang miki noodles sa masaganang baboy at stock ng manok na may kulay na annatto seeds at nilagyan ng crispy na baboy at itlog."
+        },
+        {
+          "image": "splash",
+          "text": "3.Ang Chichacorn ay mula sa prutas na?",
+          "btn1": "A. Mangga",
+          "btn2": "B. Baboy",
+          "btn3": "C.  Mais",
+          "correct": "C",
+          "trivia": "Chichacorn - ay kumbinasyon ng salitang Filipino na nagmula sa Espanyol na chicharon (crispy pork rinds) at ang salitang Ingles na \"corn.\""
+        },
+        {
+          "image": "splash",
+          "text": "4.Ang panganuhing lahok ng Strawberry Jam ay?",
+          "btn1": "A. Ube",
+          "btn2": "B. Calamansi",
+          "btn3": "C. Strawberry",
+          "correct": "C",
+          "trivia": "Ang mga berry ay pinutol sa maliliit na piraso o dinurog at niluto sa sugar syrup.Ang paghahanda ng strawberry jam ay tradisyonal na nagsasangkot ng paggamit ng pectin bilang isang gelling agent,bagaman ang asukal o pulot ay maaaring gamitin din."
+        },
+        {
+          "image": "splash",
+          "text": "5..Ang Strawberry Taho ay hinahaluan ng?",
+          "btn1": "A.Ube ",
+          "btn2": "B.Strawberry",
+          "btn3": "C.Cheese",
+          "correct": "B",
+          "trivia": "Strawberry Taho ay isang sikat na delicacy sa Baguio City. Ito ay soybean curd na may strawberry sauce at mga piraso."
+        }
+      ]
+    }
+  ],
+  "Medium": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "splash",
+          "text": "6.Ang Pinikpikan ay hinahaluan ng?",
+          "btn1": "A.Baboy ",
+          "btn2": "B.Manok",
+          "btn3": "C.Baka",
+          "correct": "B",
+          "trivia": "Pinikpikan ay isang ulam mula sa kabundukan ng rehiyon ng Cordillera sa Pilipinas. Sa partikular, ang pinikpikan ay isang tradisyon ng tribong Igorot."
+        },
+        {
+          "image": "splash",
+          "text": "7. Ang Sapin Sapin ay hinahaluan ng?",
+          "btn1": "A. Purple sticky rice",
+          "btn2": "B. Glutinous rice",
+          "btn3": "C.Ganta Rice",
+          "correct": "B",
+          "trivia": "Sapin Sapin ay isang Filipino rice cake na gawa sa glutinous rice at gata ng niyog. Ang masarap na sapin sapin recipe na ito ay binubuo ng mga layer bawat isa ay may iba't ibang kulay at lasa."
+        },
+        {
+          "image": "splash",
+          "text": "8. Ang Steamed Palileng ay hinahaluan ng?",
+          "btn1": "A. Bangus",
+          "btn2": "B. Tilapia",
+          "btn3": "C. Palileng",
+          "correct": "C",
+          "trivia": "Steamed Palileng literal na niluto na may sariling taba na may suka, sibuyas, bawang, luya, black peppercorns, kaunting asin."
+        },
+        {
+          "image": "splash",
+          "text": "9.Ang Abuos ay hinahaluan ng?",
+          "btn1": "A. Egg of quail",
+          "btn2": "B. Egg of ants",
+          "btn3": "C. Eggs of Chicken",
+          "correct": "B",
+          "trivia": "Abuos - ay isang katutubong delicacy sa Abra. Ang mga Abreño ay nagprito ng mga itlog ng langgam na ito na may mga kamatis at bawang.Sa panahon ng tag-araw, ang abuos ay maaaring anihin mula sa mga pugad ng langgam sa mga puno."
+        },
+        {
+          "image": "splash",
+          "text": "10. Ang Cascaron ay hinahaluan ng?",
+          "btn1": "A. Cake Flour",
+          "btn2": "B. Mochiko flour",
+          "btn3": "C. All Purpose Flour",
+          "correct": "B",
+          "trivia": "Cascaron ay isang madaling panghimagas na Filipino na gawa sa piniritong harina ng mochiko at ginutay-gutay na niyog na nilagyan ng brown sugar na simpleng syrup."
+        }
+      ]
+    }
+  ],
+  "Hard": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "splash",
+          "text": "11.  Ang Sininggub ay hinahaluan ng?",
+          "btn1": "A. Red Chili Pepper",
+          "btn2": "B. Black Peppercorn",
+          "btn3": "C. Black Pepper",
+          "correct": "A",
+          "trivia": "Sininggub o magprito ng pulang sili na may hiniwang batang dahon ng lemon. Ito ay hinahain bilang pampagana at isa sa mga delicacy dito sa Conner."
+        },
+        {
+          "image": "splash",
+          "text": "12. Ang Safeng o sabeng ay hinahaluan ng?",
+          "btn1": "A. Potato",
+          "btn2": "B.Camote",
+          "btn3": "C.Carrot",
+          "correct": "C",
+          "trivia": "Safeng - o sabeng ang lasa at amoy tulad ng German Sauerkraut.Ang pangunahing pagkakaiba ay nakasalalay sa katotohanan na ang mga Aleman ay gumagamit ng mga repolyo, habang ang mga Igorot ay nagdaragdag ng Sweet Potatoes o Cassava."
+        },
+        {
+          "image": "splash",
+          "text": "13.Ang Patupat Sinuman ay binabalot sa dahon ng?",
+          "btn1": "A. Kamote.",
+          "btn2": "B. Saging",
+          "btn3": "C. Gabi",
+          "correct": "B",
+          "trivia": ""Patupat Sinuman - ay ang lokal na bersyon ng mga rice cake sa Abra. Ang lasa ay maihahambing pa sa isang world-class na dessert.Ang Sinuman ay isang tatsulok na hugis na rice cake na inihahain nang ganito. Ang Patupat naman ay inihahain ng muscovado sugar."
+        },
+        {
+          "image": "splash",
+          "text": "14.Ang Etag ay hinahaluan ng?",
+          "btn1": "A. Baboy ",
+          "btn2": "B.Baka",
+          "btn3": "C.Manok",
+          "correct": "A",
+          "trivia": "Ang Etag - o ang inasnan na baboy sa Bontoc, Mountain Province, ay karaniwang sangkap sa maraming katutubong delicacy sa lalawigan.Etag is actually a product of preserving the meat hence, it's really flavorful!"
+        },
+        {
+          "image": "splash",
+          "text": "15.Ang Lechon de Abra ay hinahaluan ng?",
+          "btn1": "A.Manok",
+          "btn2": "B.Baboy",
+          "btn3": "C.Baka",
+          "correct": "B",
+          "trivia": "Lechon de Abra katulad ng iba, proud na may malutong na balat. Gayunpaman, iba pa rin ito sa ibang lechon sa bansa.Ito ay inihanda sa manipis na hiwa ng mga dahon at tinimplahan ng maraming bawang, asin, at paminta."
+        }
+      ]
+    }
+  ]
+}

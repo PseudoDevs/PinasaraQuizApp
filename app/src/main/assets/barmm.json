@@ -1,0 +1,182 @@
+﻿{
+  "Easy": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "quiz_bg",
+          "text": "1.Ang Chicken Pastil ay hinahaluan ng?",
+          "btn1": "A.Baboy",
+          "btn2": "B.Manok",
+          "btn3": "C.Baka",
+          "correct": "B",
+          "trivia": "CHICKEN PASTIL-ay isang Filipino Muslim recipe na inihahain kasama ng steamed rice na nilagyan ng shredded chicken."
+        },
+        {
+          "image": "splash",
+          "text": "2.  Ang Kinilaw ay hinahaluan ng?",
+          "btn1": "A.Manok",
+          "btn2": "B.Baboy",
+          "btn3": "C. Isda",
+          "correct": "C",
+          "trivia": "Ang Kinilaw ay isang hilaw na seafood dish at paraan ng paghahanda na katutubong sa Pilipinas.Tinatawag din itong Philippine ceviche dahil sa pagkakatulad nito sa Latin American dish ceviche."
+        },
+        {
+          "image": "splash",
+          "text": "3.Anong hayop ang ginagamit sa Lechon Buwaya?",
+          "btn1": "A. Manok",
+          "btn2": "B. Baboy",
+          "btn3": "C.  Buwaya",
+          "correct": "C",
+          "trivia": "Lechón Buwaya- Ang Lechón ay isang tanyag na pagkain sa Pilipinas. Sa katunayan, ang lechón ay ang National Dish ng bansa."
+        },
+        {
+          "image": "splash",
+          "text": "4. Ang curacha ay anong seafood?",
+          "btn1": "A. dried fish",
+          "btn2": "B. canned tuna",
+          "btn3": "C. Alimango",
+          "correct": "C",
+          "trivia": "Ang Curacha, na kilala rin bilang \"spanner crab\" o \"red frog crab,ay isang lokal na pangalang Chavacano na ibinigay kay Ranina ranina, na karaniwang matatagpuan sa tubig ng lalawigan ng Sulu at lalawigan ng Zamboanga at Bataan."
+        },
+        {
+          "image": "splash",
+          "text": "5.Ang Sinuglaw ay parte ng anong isda?",
+          "btn1": "A.Panga",
+          "btn2": "B.Tiyan",
+          "btn3": "C.Buntot",
+          "correct": "B",
+          "trivia": "Ang Sinuglaw ay isang ulam na binubuo ng inihaw na tiyan ng baboy at isda na ceviche. Ito ay maaaring ituring bilang pangunahing ulam o pampagana."
+        }
+      ]
+    }
+  ],
+  "Medium": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "splash",
+          "text": "6.Ang Pastillas de Leche ay hinahaluan ng?",
+          "btn1": "A.kondensada ",
+          "btn2": "B.Gatas ng baka",
+          "btn3": "C.Gatas ng Kambing",
+          "correct": "A",
+          "trivia": "Pastillas de Leche- ay mga matamis na kendi ng gatas na kadalasang inihahain bilang panghimagas."
+        },
+        {
+          "image": "splash",
+          "text": "7. Anong prutas ang hinahalo sa Dodol?",
+          "btn1": "A.Pinya",
+          "btn2": "B.Durian",
+          "btn3": "C.Langka",
+          "correct": "B",
+          "trivia": "Isang tradisyonal na goan sweet na gawa sa gata ng niyog at coconut jaggery. Ito ay isang recipe ng pamilya.Dapat kong bigyan ng babala ang ulam na ito ay nangangailangan ng malaking halaga ng enerhiya upang pukawin ang gatas nang hindi ito masunog."
+        },
+        {
+          "image": "splash",
+          "text": "8. Ang Baulo ba ay nilalagyan ng gulay?",
+          "btn1": "A.  Dahon ng gabi",
+          "btn2": "B. Oo",
+          "btn3": "C. Hindi",
+          "correct": "C",
+          "trivia": "BAULO Isang klasikong delicacy ng Tausug na hinango mula sa lutuing Malaysian. Tinatawag nila itong bahulu, baulo o baolo."
+        },
+        {
+          "image": "splash",
+          "text": "9.Ang Lokot lokot ba ay klase ng lutong ulam?",
+          "btn1": "A.  Oo",
+          "btn2": "B. Hindi",
+          "btn3": "C. Isang Panghimagas",
+          "correct": "B",
+          "trivia": "Lokot lokot- ay isang delicacy na karaniwan sa Mindanao at Sulu Archipelago sa Pilipinas."
+        },
+        {
+          "image": "splash",
+          "text": "10. Ang Malaysian Nasi Lemak ay hinahaluan ng?",
+          "btn1": "A. Gatas ng Baka",
+          "btn2": "B. Gata",
+          "btn3": "C. Gatas ng Kambing",
+          "correct": "B",
+          "trivia": "Malaysian Nasi Lemak- Masarap na Malaysian coconut rice, na inihain kasama ng bagoong mainit na sili, pritong bagoong, piniritong mani, hiniwang pipino o kamatis at pinakuluang itlog."
+        }
+      ]
+    }
+  ],
+  "Hard": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "splash",
+          "text": "11.  Anong karne ang ginagamit sa Tausug Kulma?",
+          "btn1": "A. Baka",
+          "btn2": "B. Baboy",
+          "btn3": "C. Manok",
+          "correct": "A",
+          "trivia": "Tausug Beef Kulma- ay isang karne ng baka curry dish sa Pilipinas na malapit na kahawig ng Korma, maaaring ito ay kung saan ang ulam ay nagmula dahil ang pangalan ay halos magkapareho."
+        },
+        {
+          "image": "splash",
+          "text": "12. Ang Chili Crab ang may lahok na anong seafood?",
+          "btn1": "A.Shrimp",
+          "btn2": "B.Crab",
+          "btn3": "C.Lobster",
+          "correct": "C",
+          "trivia": "Tingnan ang napakarilag na Pinoy Chili Crabs. Parang nakakatakam sa mata..yummy. Hindi na kailangang pumunta ng Singapore dahil madaling lutuin ang Chili crab na ito."
+        },
+        {
+          "image": "splash",
+          "text": "13.Anong karne ang ginagamit sa Tiyula Itum?",
+          "btn1": "A. Buwaya.",
+          "btn2": "B. Baka",
+          "btn3": "C. Usa",
+          "correct": "B",
+          "trivia": "Tiyula Itum- ay isang Filipino beef soup na inihanda gamit ang mga piraso ng karne ng baka o kambing na niluto gamit ang tanglad, luya, turmerik at charred coconut meat."
+        },
+        {
+          "image": "splash",
+          "text": "14.Ang binaki ay may sangkap na?",
+          "btn1": "A. Durog na mais ",
+          "btn2": "B.Durog na manga",
+          "btn3": "C.Durog na mansanas",
+          "correct": "A",
+          "trivia": "Ang binaki ay steamed cake na gawa sa grated young corn na may powdered milk, baking powder at asukal na hinaluan ng tubig.Ito ay isang kilalang delicacy ng Northern Mindanao at orihinal na isang homemade dessert sa Bukidnon."
+        },
+        {
+          "image": "splash",
+          "text": "15.Ang halang halang ay may sangkap na?",
+          "btn1": "A.Ginataang niyog",
+          "btn2": "B.Luya at papa",
+          "btn3": "C.Lahat ng sagot",
+          "correct": "C",
+          "trivia": "Isa itong ulam ng manok na Bisaya. Karamihan sa mga ulam mula sa rehiyong iyon ay may gata ng niyog sa kanilang pagluluto.Ito ay ginataang manok o nilagang manok na may gata ng niyog na kilala sa halos bahagi ng Luzon."
+        }
+      ]
+    }
+  ]
+}

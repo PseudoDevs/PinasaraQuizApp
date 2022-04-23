@@ -1,0 +1,182 @@
+﻿{
+  "Easy": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "quiz_bg",
+          "text": "1.Ang Paella Style ng NCR ay hinahaluan ng?",
+          "btn1": "A.Banana Blossom",
+          "btn2": "B.Malunggay",
+          "btn3": "C.Banana Chips",
+          "correct": "A",
+          "trivia": "Nag-reimagined ang Spanish Paella, na puno ng hanay ng mga gulay at Banana Blossom bilang alternatibong seafood."
+        },
+        {
+          "image": "splash",
+          "text": "2.Anong gatas ang nilalagay sa Halo halo?",
+          "btn1": "A. Ice Cubes",
+          "btn2": "B. Kinaskas na Yelo",
+          "btn3": "C. Mainit na tubig",
+          "correct": "B",
+          "trivia": "Halo halo ang pinakamahusay na paggamot sa tag-init. Ito ay isang layered dessert na binubuo ng sweetened beans, prutas, shaved ice drizzled na may evaporated milk, at ice cream."
+        },
+        {
+          "image": "splash",
+          "text": "3.Ang Buko pie ay hinahaluan ng?",
+          "btn1": "A. Laman ng Buko",
+          "btn2": "B. Kinayod na Niyog",
+          "btn3": "C. Bigas",
+          "correct": "A",
+          "trivia": "Buko Pie ay isa sa all-time favorite pasalubong. Ang matamis at masaganang pie na ito ay ginawa mula sa karne ng niyog na lokal na kilala bilang karne ng Buko. Ang Pasalubong, sa kabilang banda, ay regalo para sa isang miyembro ng pamilya o sanga ng kaibigan ng isang manlalakbay na pauwi mula sa isang biyahe."
+        },
+        {
+          "image": "splash",
+          "text": "4.Ang Kare kare ay nilalahukan ng anong parte ng saging?",
+          "btn1": "A. Ugat ng Saging.",
+          "btn2": "B. Bulaklak ng Saging",
+          "btn3": "C. Saging na saba",
+          "correct": "B",
+          "trivia": "Ang Kare Kare ay isang uri ng nilagang Pilipino na may mayaman at makapal na peanut sauce. Ito ay isang tanyag na pagkain sa Pilipinas na inihahain sa mga espesyal na okasyon. Ang tradisyonal na recipe ay binubuo ng buntot ng baka. May mga pagkakataon kung saan parehong ginagamit ang ox tripe at buntot. Ang mga sangkap ng gulay ng ulam ay sitaw, talong, bok choy, at bulaklak ng saging. Ang lightly browned toasted ground rice ay ginagamit para lumapot ang sauce."
+        },
+        {
+          "image": "splash",
+          "text": "5.Ang Fresh Lumpia ay hinahaluan ng?",
+          "btn1": "A.Kamote, Repolyo, Carrot, Baboy at tofu ",
+          "btn2": "B.Patatas, Petchay, Baka at Toyo",
+          "btn3": "C.Carrot, Pipino at Sitaw",
+          "correct": "A",
+          "trivia": "Ang Lumpiang sariwa ay isa sa aming mga paboritong pagkaing pang-party na Pinoy. Ito ang lagi kong kinakain kung gusto kong magkaroon ng magaan at malusog. Sa tingin ko, ang recipe na ito ay higit pa sa sapat upang ma-satisfy ang iyong cravings dahil ang huling produkto ay talagang masarap at masarap."
+        }
+      ]
+    }
+  ],
+  "Medium": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "splash",
+          "text": "6.Ang Sotanghon ng NCR ay madalas hinahaluan ng?",
+          "btn1": "A. Baboy ",
+          "btn2": "B.Manok",
+          "btn3": "C.Baka",
+          "correct": "B",
+          "trivia": "Ang Chicken Sotanghon Soup ay isang Filipino na bersyon ng chicken noodle soup. Ang sopas dish na ito ay gumagamit ng ginutay-gutay na manok at sotanghon noodles. Mayroon din itong carrots at repolyo. Ang pagdaragdag ng inihaw na bawang, scallion, at pampalasa na may patis ay nagpapatingkad dito."
+        },
+        {
+          "image": "splash",
+          "text": "7. Ang Beef Mechado ay hinahaluan ng?",
+          "btn1": "A. Laman ng Baka",
+          "btn2": "B. Pata ng Baka",
+          "btn3": "C.Laman Loob ng Baka",
+          "correct": "A",
+          "trivia": "Ang Beef Mechado ay isang uri ng Filipino beef stew. Ito ay niluto sa tomato-based sauce kasama ng cubed potato.Ang sarsa ay maaaring gawin mula sa tinadtad na hinog na kamatis o de-latang sarsa ng kamatis.Ang ulam na ito ay kadalasang inihahanda tuwing katapusan ng linggo o mga espesyal na okasyon."
+        },
+        {
+          "image": "splash",
+          "text": "8. Ang Leche Flan ay nilalagyan ng?",
+          "btn1": "A. Gatas ng Baboy",
+          "btn2": "B. Gatas ng Baka",
+          "btn3": "C. Evaporada",
+          "correct": "C",
+          "trivia": "Ang Leche Flan ay isang dessert na gawa sa mga itlog at gatas na may malambot na karamelo sa ibabaw.Ito ay kahawig ng crème caramel at caramel custard. Ang masarap na dessert na ito ay kilala sa buong mundo."
+        },
+        {
+          "image": "splash",
+          "text": "9.Ang Bibingka ay madalas na gawa sa?",
+          "btn1": "A. Giniling na Bigas",
+          "btn2": "B. Giniling na Malagkit",
+          "btn3": "C. Giniling na Palay",
+          "correct": "A",
+          "trivia": "Ang Bibingka ay isang uri ng rice cake na katutubong sa Pilipinas.Ito ay tradisyonal na ginawa mula sa galapong (milled glutinous rice), gata ng niyog, margarine, at asukal."
+        },
+        {
+          "image": "splash",
+          "text": "10. Ang Chami ay madalas lagyan atay ng?",
+          "btn1": "A. Baka",
+          "btn2": "B. Manok",
+          "btn3": "C. Baboy",
+          "correct": "B",
+          "trivia": "Ang pagkaing ito ay talagang isang espesyalidad ng lungsod ng Lucena. At talagang inirerekumenda kong subukan ang isang mangkok nito mula sa Quezon Province kung sakaling makakarating ka doon.Ang katutubong delicacy ng lungsod ay binubuo ng makakapal na noodles, manok, baboy o hipon—o lahat ng tatlo, kahit—at isang mahusay na seleksyon ng mga gulay.ngo at mausok na pahiwatig dito."
+        }
+      ]
+    }
+  ],
+  "Hard": [
+    {
+      "questions": [
+        {
+          "image": "// wag alisin",
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
+        },
+        {
+          "image": "splash",
+          "text": "11. Anong isda ang nilalagay sa Kinilaw na Tanigue?",
+          "btn1": "A. Tanigue ",
+          "btn2": "B. Tilapia",
+          "btn3": "C. Tuna",
+          "correct": "A",
+          "trivia": "Ang Kinilaw na Tanigue o kilawing tanigue ay isang uri ng Filipino fish ceviche kung saan ang Wahoo fish fillet ay hinihiwa sa mga cube at niluluto sa pinaghalong katas ng calamansi, sariwang luya, sibuyas, sili, at pampalasa."
+        },
+        {
+          "image": "splash",
+          "text": "12. Ang Sinigang sa NCR ay may pampaasim na?",
+          "btn1": "A. Kalamansi",
+          "btn2": "B. Kamias",
+          "btn3": "C.Sampalok Mix",
+          "correct": "C",
+          "trivia": "Ang Sinigang ay isang maasim na sopas na katutubong sa Pilipinas. Ang recipe na ito ay gumagamit ng baboy bilang pangunahing sangkap. Ang iba pang mga protina at pagkaing-dagat ay maaari ding gamitin.Ang karne ng baka, hipon, isda ay karaniwang ginagamit sa pagluluto ng sinigang."
+        },
+        {
+          "image": "splash",
+          "text": "13.Ang papaitan ay gawa sa anong parte naman ng baka?",
+          "btn1": "Paa, Tengas, Dila, Mata at ilong.",
+          "btn2": "Isaw ng baka,apdo at puso",
+          "btn3": "Hita, Tiyan, Likod at Tenga ng baka",
+          "correct": "B",
+          "trivia": "Pait” ay isang salitang Filipino na nangangahulugang “mapait,” at ang “pinapaitan” ay halos isinalin sa “gawing mapait.” Ang pangalan na ito ay talagang nagbubuod ng lasa ng ulam na ito. Ginawa gamit ang napakanipis na piraso na malambot na karne ng baka, ox tripe, maliit na bituka, puso, apdo, at malalaking berdeng sili, dadalhin ka ng Dinakdakan sa isang roller coaster ng mga lasa."
+        },
+        {
+          "image": "splash",
+          "text": "14.Ang Igado ay may mga sangkap na?",
+          "btn1": "Lomo ng baboy, suka, toyo at paminta ",
+          "btn2": "Hita ng baboy, suka, patis, toyo at paminta",
+          "btn3": "Ulo ng baboy, patis, toyo, asukal at paminta",
+          "correct": "A",
+          "trivia": "Gawa sa pork tenderloin at innards, ang Igado ay isang tanyag na lutuing Ilokano na mas gusto mong kumain ng mas maraming kanin. Ang ulam na ito ay may mga bitter notes, ngunit ang matamis-at-maasim na lasa ng pork tenderloin, na ibinabad sa Sukang Iloko, toyo, at paminta, ay nagpapapantay nito."
+        },
+        {
+          "image": "splash",
+          "text": "15.Ang Menudo ay hinahaluan ng?",
+          "btn1": "A.Manok",
+          "btn2": "B.Baboy",
+          "btn3": "C.Baka",
+          "correct": "B",
+          "trivia": "Ang Pork Menudo ang numero uno sa listahan ng aking mga comfort food at mahirap para sa akin na tumagal ng isang buwan nang hindi sinusubukan ang isa - literal. Ang ilan ay magsasabi na ako ay nalulong sa pagkaing ito habang ang iba ay gumagamit ng katagang \"pagkahumaling\", tinitingnan ko lamang ito bilang isang pangangailangan - isang pangunahing pangangailangan na hindi ko mabubuhay kung wala."
+        }
+      ]
+    }
+  ]
+}

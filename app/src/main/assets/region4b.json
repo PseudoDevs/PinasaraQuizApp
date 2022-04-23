@@ -4,7 +4,12 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
 		{
           "image": "splash",
@@ -59,7 +64,12 @@
       "questions": [
         {
           "image": "// wag alisin",
-          "correct": "// wag alisin"
+          "text": "// wag alisin",
+          "btn1": "// wag alisin",
+          "btn2": "// wag alisin",
+          "btn3": "// wag alisin",
+          "correct": "// wag alisin",
+          "trivia": "// wag alisin"
         },
 		{
           "image": "splash",

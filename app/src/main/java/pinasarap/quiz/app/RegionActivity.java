@@ -40,6 +40,27 @@ public class RegionActivity extends AppCompatActivity {
 
     public void region(View v){
         switch (v.getId()) {
+            case R.id.barmm:
+                MainActivity.editor.putString("regionSelected","barmm.json").commit();
+                MainActivity.editor.putString("regionName","BARMM Region").commit();
+                Intent barmm = new Intent(RegionActivity.this,levelActivity.class);
+                mediaPlayer.start();
+                startActivity(barmm);
+                break;
+            case R.id.car:
+                MainActivity.editor.putString("regionSelected","car.json").commit();
+                MainActivity.editor.putString("regionName","CAR Region").commit();
+                Intent car = new Intent(RegionActivity.this,levelActivity.class);
+                mediaPlayer.start();
+                startActivity(car);
+                break;
+            case R.id.ncr:
+                MainActivity.editor.putString("regionSelected","ncr.json").commit();
+                MainActivity.editor.putString("regionName","NCR Region").commit();
+                Intent ncr = new Intent(RegionActivity.this,levelActivity.class);
+                mediaPlayer.start();
+                startActivity(ncr);
+                break;
             case R.id.region1:
                 MainActivity.editor.putString("regionSelected","region1.json").commit();
                 MainActivity.editor.putString("regionName","Region 1").commit();

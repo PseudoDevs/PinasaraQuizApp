@@ -7,6 +7,30 @@
     >
 
     <Button
+        android:id="@+id/barmm"
+        android:backgroundTint="@color/region_five"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BARMM"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/car"
+        android:backgroundTint="@color/region_thirteen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CAR"
+        android:onClick="region"/>
+
+    <Button
+        android:id="@+id/ncr"
+        android:backgroundTint="@color/region_eight"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="NCR"
+        android:onClick="region"/>
+
+    <Button
         android:id="@+id/region1"
         android:backgroundTint="@color/region_one"
         android:layout_width="match_parent"

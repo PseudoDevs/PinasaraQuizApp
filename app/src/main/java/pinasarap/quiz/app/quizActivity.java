@@ -42,6 +42,9 @@ public class quizActivity extends AppCompatActivity {
     int star;
     ImageView startLife1,startLife2,startLife3;
     int starLife = 3;
+    String regionAndLevel;
+    String regionSelected;
+    String finalRegionAndLevel;
 
 
     @Override
@@ -49,6 +52,9 @@ public class quizActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.quiz);
         InitializeUI();
+        regionSelected = MainActivity.prefs.getString("regionSelected",null);
+        regionAndLevel = regionSelected.replace(".json","");
+
         MainActivity.editor.putInt("score",0).commit();
         textView2.setText("Points : "+MainActivity.prefs.getInt("star",0));
         star = MainActivity.prefs.getInt("star",0);
@@ -85,6 +91,15 @@ public class quizActivity extends AppCompatActivity {
             case R.id.ans1:
                 if(questionItems.get(currentLevel).getCorrect().equals("A")){
                     score++;
+                    if(score == questionItems.size() - 1){
+                        if(MainActivity.prefs.getString("levelSelected",null).equals("Easy")){
+                            MainActivity.editor.putInt("level"+regionAndLevel+"Medium",1).commit();
+                        }
+                        if(MainActivity.prefs.getString("levelSelected",null).equals("Medium")){
+                            MainActivity.editor.putInt("level"+regionAndLevel+"Hard",1).commit();
+                        }
+
+                    }
                     star++;
                     MainActivity.editor.putInt("star",star).commit();
                     textView2.setText("Points : "+star);
@@ -102,6 +117,15 @@ public class quizActivity extends AppCompatActivity {
             case R.id.ans2:
                 if(questionItems.get(currentLevel).getCorrect().equals("B")){
                     score++;
+                    if(score == questionItems.size() - 1){
+                        if(MainActivity.prefs.getString("levelSelected",null).equals("Easy")){
+                            MainActivity.editor.putInt("level"+regionAndLevel+"Medium",1).commit();
+                        }
+                        if(MainActivity.prefs.getString("levelSelected",null).equals("Medium")){
+                            MainActivity.editor.putInt("level"+regionAndLevel+"Hard",1).commit();
+                        }
+
+                    }
                     star++;
                     MainActivity.editor.putInt("star",star).commit();
                     textView2.setText("Points : "+star);
@@ -118,6 +142,15 @@ public class quizActivity extends AppCompatActivity {
             case R.id.ans3:
                 if(questionItems.get(currentLevel).getCorrect().equals("C")){
                     score++;
+                    if(score == questionItems.size() - 1){
+                        if(MainActivity.prefs.getString("levelSelected",null).equals("Easy")){
+                            MainActivity.editor.putInt("level"+regionAndLevel+"Medium",1).commit();
+                        }
+                        if(MainActivity.prefs.getString("levelSelected",null).equals("Medium")){
+                            MainActivity.editor.putInt("level"+regionAndLevel+"Hard",1).commit();
+                        }
+
+                    }
                     star++;
                     MainActivity.editor.putInt("star",star).commit();
                     textView2.setText("Points : "+star);
